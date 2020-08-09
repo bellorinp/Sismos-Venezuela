@@ -1,0 +1,1005 @@
+Fecha,Latitud,Longitud,Pofundidad (km),Magnitud,Escala de Magnitud,Gap,Dmin,RMS,Lugar,Tipo,Error Horizontal,Error de Profundidad,Error de Magnitud,Número de Estaciones
+2000-07-30T16:13:46.930Z,10.67,-62.8,3,3.5,md,,,,"Sucre, Venezuela",Sismo,,,,
+2000-08-06T08:22:58.340Z,11.008,-62.16,74,4.7,mb,,,1.11,"Costa Afuera de Sucre, Venezuela",Sismo,,4,,18
+2000-08-06T17:34:11.660Z,11.018,-62.152,83,3,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-08-07T06:19:20.500Z,10.717,-62.437,113,3.6,md,,,,"Sucre, Venezuela",Sismo,,,,
+2000-08-12T20:18:18.150Z,7.08,-72.914,128.5,4.1,mb,,,1.24,Frontera Colombia-Venezuela,Sismo,,24,,1
+2000-08-13T01:20:33.060Z,10.885,-62.055,75,3,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-08-14T12:24:12.190Z,11.144,-61.833,19,3,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-08-29T10:58:22.720Z,10.892,-62.271,75,2.9,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-09-21T05:38:17.690Z,11.105,-62.492,122.4,4.6,mb,,,0.96,"Costa Afuera de Sucre, Venezuela",Sismo,,4.8,,22
+2000-10-04T14:37:44.150Z,11.124,-62.559,110.3,6.2,mwc,,,0.9,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-10-04T15:55:59.880Z,11.084,-62.339,91,3.5,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-10-07T18:51:21.480Z,11.036,-62.348,98,2.7,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-10-13T00:13:50.790Z,10.953,-62.389,105,3.3,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-10-18T14:08:20.460Z,11.001,-61.913,64,3.7,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-10-19T16:50:19.340Z,10.726,-62.304,49,3.4,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-10-24T23:20:09.730Z,11.216,-61.788,72,2.9,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-10-26T02:09:52.460Z,10.566,-62.43,70,3.1,md,,,,"Sucre, Venezuela",Sismo,,,,
+2000-10-27T20:12:36.260Z,11.337,-61.819,54,3.3,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-10-29T23:24:22.890Z,10.953,-62.343,114,3,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-10-31T05:40:51.880Z,10.954,-61.901,38,2.9,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-11-03T01:19:57.990Z,9.931,-62.152,33,3.7,md,,,1.35,"Delta Amacuro, Venezuela",Sismo,,,,
+2000-11-05T10:49:09.820Z,10.046,-62.138,62.1,4.5,mb,,,0.89,"Golfo de Paria, Venezuela",Sismo,,5.4,,4
+2000-11-10T10:01:27.630Z,10.859,-62.516,99,3.4,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-11-22T20:53:01.870Z,11.001,-62.08,86,3.2,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-11-23T08:10:29.610Z,11.269,-62.167,3,2.9,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-11-27T19:48:52.130Z,11.329,-62.141,89,3.1,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-12-08T11:10:30.130Z,10.39,-62.632,34,3.6,md,,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2000-12-12T10:22:12.230Z,10.87,-62.456,100,3.8,md,,,0.68,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-12-18T03:50:03.560Z,9.491,-62.407,35,3.2,md,,,,"Delta Amacuro, Venezuela",Sismo,,,,
+2000-12-23T00:16:57.320Z,11.062,-61.853,28,3.3,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2000-12-29T20:06:36.810Z,10.855,-62.205,81,3.2,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-01-03T01:32:57.830Z,10.468,-62.025,33,2.7,md,,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2001-01-05T21:23:28.730Z,10.789,-62.438,31,3.2,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-01-07T20:53:33.670Z,11.199,-61.958,91,2.8,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-01-08T07:13:40.460Z,7.048,-72.821,150,3.6,mb,,,0.34,Frontera Colombia-Venezuela,Sismo,,,,1
+2001-01-11T09:20:56.890Z,10.191,-69.401,33,4.4,mb,,,0.97,"Lara, Venezuela",Sismo,,,,14
+2001-01-15T13:14:01.170Z,10.985,-62.631,100.5,3.2,mb,,,1.01,"Costa Afuera de Sucre, Venezuela",Sismo,,15.4,,1
+2001-01-15T15:09:25.260Z,11.066,-62.038,50,2.8,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-01-16T01:07:40.480Z,10.778,-62.483,103,3,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-01-17T08:32:44.520Z,11.308,-62.211,137,3.4,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-01-25T04:33:42.570Z,10.67,-62.675,79.8,4.4,mb,,,0.78,"Sucre, Venezuela",Sismo,,,,8
+2001-01-31T04:10:02.310Z,11.029,-62.202,100,2.9,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-02-08T17:57:06.790Z,10.976,-65.808,33,3.7,mb,,,0.84,"Costa Afuera de Miranda, Venezuela",Sismo,,,,1
+2001-02-15T17:35:36.480Z,10.871,-62.21,3,3,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-02-16T18:54:27.560Z,10.954,-62.084,57,2.7,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-02-20T20:38:12.200Z,10.778,-62.273,45,2.8,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-02-25T16:54:58.950Z,11.185,-62.041,90,3.3,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-03-01T07:42:13.950Z,10.517,-61.749,13,3.2,md,,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2001-03-02T20:48:41.160Z,10.994,-63.125,33,3.4,mb,,,1.23,"Costa Afuera de Sucre, Venezuela",Sismo,,,,1
+2001-03-09T22:06:27.170Z,10.389,-62.247,38,3.1,md,,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2001-03-11T20:12:36.390Z,11.04,-62.018,54,3.1,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-03-24T06:04:40.880Z,10.624,-62.455,31,3.1,md,,,,"Sucre, Venezuela",Sismo,,,,
+2001-03-26T08:32:50.740Z,10.705,-62.557,101.1,4.4,mb,,,1.16,"Sucre, Venezuela",Sismo,,8.2,,13
+2001-04-01T10:26:57.210Z,10.584,-63.009,5,4,mb,,,1.44,"Sucre, Venezuela",Sismo,,,,3
+2001-04-05T09:37:21.830Z,10.029,-72.822,33,4.2,mb,,,0.8,"Zulia, Venezuela",Sismo,,,,7
+2001-04-07T08:50:24.210Z,8.986,-61.087,66,3.9,mb,,,0.96,"Delta Amacuro, Venezuela",Sismo,,9,,6
+2001-04-14T17:32:58.360Z,10.897,-62.277,96,3.2,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-04-20T10:54:39.210Z,11.265,-61.827,99,3.4,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-04-24T17:03:31.590Z,10.848,-62.479,94.3,4.6,mb,,,0.97,"Costa Afuera de Sucre, Venezuela",Sismo,,,,52
+2001-04-24T23:37:55.360Z,10.919,-62.308,47,3.3,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-04-25T04:10:27.330Z,11.289,-62.053,31,3,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-04-30T18:05:58.470Z,10.845,-62.138,53,3.5,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-05-01T02:48:03.240Z,10.845,-62.326,69,3.5,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-05-03T09:46:35.810Z,10.946,-62.298,45,3.2,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-05-09T04:15:36.030Z,10.804,-62.383,74,2.8,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-05-09T15:50:50.600Z,10.168,-61.918,33,3.4,md,,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2001-05-12T00:49:25.700Z,10.863,-62.365,65,3,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-05-12T12:08:16.710Z,10.951,-62.159,84,2.8,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2001-05-12T15:47:04.260Z,10.626,-62.753,34,2.8,md,,,,"Sucre, Venezuela",Sismo,,,,
+2001-05-27T11:31:31.050Z,7.026,-72.702,150,4,mb,,,0.76,Frontera Colombia-Venezuela,Sismo,,,,3
+2001-06-05T14:38:59.470Z,9.592,-69.337,19.2,4.8,mb,,,0.9,"Portuguesa, Venezuela",Sismo,,,,55
+2001-06-10T08:45:01.490Z,9.861,-69.633,33,4.3,mb,,,1.2,"Lara, Venezuela",Sismo,,,,9
+2001-06-28T15:48:34.080Z,11.431,-70.324,33,5.3,mwc,,,0.9,Golfo de Venezuela,Sismo,,,,
+2001-07-29T16:25:46.920Z,11.054,-61.857,33,3.8,mb,,,0.7,"Costa Afuera de Sucre, Venezuela",Sismo,,,,3
+2001-08-09T18:13:08.160Z,7.801,-72.778,200,3.9,mb,,,0.85,Frontera Colombia-Venezuela,Sismo,,,,1
+2001-09-12T23:50:31.930Z,7.02,-72.971,33,4.1,mb,,,0.79,Frontera Colombia-Venezuela,Sismo,,,,2
+2001-10-07T11:54:15.170Z,11.182,-62.502,100,3.9,mb,,,0.99,"Costa Afuera de Sucre, Venezuela",Sismo,,,,1
+2001-10-17T04:49:54.900Z,7.217,-72.643,33,4.3,mb,,,0.66,Frontera Colombia-Venezuela,Sismo,,,,9
+2001-10-24T12:29:58.150Z,10.704,-62.638,33,4.1,mb,,,1.08,"Sucre, Venezuela",Sismo,,,,6
+2001-12-21T20:51:52.470Z,8.17,-70.961,33,5.6,mwc,,,0.68,"Barinas, Venezuela",Sismo,,,,
+2001-12-27T09:02:50.850Z,10.044,-69.878,33,3.9,mb,,,1.23,"Lara, Venezuela",Sismo,,,,1
+2001-12-28T02:55:00.330Z,7.277,-72.825,33,4.1,mb,,,1.12,Frontera Colombia-Venezuela,Sismo,,,,3
+2001-12-28T07:39:12.160Z,10.9,-64.558,33,4.8,mb,,,0.88,Costa Afuera Venezuela,Sismo,,,,5
+2002-02-18T22:11:41.460Z,7.221,-72.651,33,4.5,mb,,,0.9,Frontera Colombia-Venezuela,Sismo,,,,11
+2002-03-15T07:04:49.420Z,7.126,-72.271,33,4.1,mb,,,1.17,Frontera Colombia-Venezuela,Sismo,,,,4
+2002-03-29T20:22:37.770Z,10.353,-62.394,33,4.4,mb,,,1.02,"Golfo de Paria, Venezuela",Sismo,,,,19
+2002-03-30T13:15:54.030Z,8.694,-70.696,33,4.3,mb,,,1.07,"Barinas, Venezuela",Sismo,,,,15
+2002-04-12T01:43:51.020Z,9.896,-69.963,10,4.5,mb,,,0.94,"Lara, Venezuela",Sismo,,,,20
+2002-06-21T11:20:58.200Z,9.891,-69.218,33,4.5,mb,,,0.61,"Lara, Venezuela",Sismo,,,,6
+2002-08-09T13:47:54.990Z,10.871,-62.417,103.3,4.2,mb,,,0.82,"Costa Afuera de Sucre, Venezuela",Sismo,,10.9,,3
+2002-09-10T22:58:09.350Z,10.767,-62.4,113.1,4.1,mb,,,1.05,"Costa Afuera de Sucre, Venezuela",Sismo,,7.2,,2
+2002-09-13T20:18:59.750Z,10.306,-63.17,33,3.7,md,,,1.24,"Sucre, Venezuela",Sismo,,,,
+2002-09-22T08:10:16.100Z,10.65,-62.59,85,3.7,md,,,,"Sucre, Venezuela",Sismo,,,,
+2002-09-27T16:26:43.400Z,10.73,-62.34,43.6,4.5,md,,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2002-10-04T15:43:46.450Z,10.371,-62.623,32.3,4.9,mb,,,0.98,"Golfo de Paria, Venezuela",Sismo,,3.6,,83
+2002-10-15T23:12:21.180Z,10.558,-63.479,33,4.4,mb,,,1.11,"Sucre, Venezuela",Sismo,,,,16
+2002-10-18T02:34:44.390Z,8.798,-71.841,33,4.1,mb,,,1.16,"Zulia, Venezuela",Sismo,,,,9
+2002-11-24T15:09:31.410Z,10.78,-62.674,98.6,4.9,mb,,,0.8,"Costa Afuera de Sucre, Venezuela",Sismo,,,,68
+2002-11-25T04:35:40.430Z,10.615,-62.87,33,4.5,mb,,,1.03,"Sucre, Venezuela",Sismo,,,,21
+2003-01-25T03:12:18.400Z,11.049,-65.674,10,4.2,mb,,,0.89,"Costa Afuera de Miranda, Venezuela",Sismo,,,,8
+2003-02-14T01:23:39.830Z,10.312,-62.389,33.8,4.8,mb,,,0.84,"Golfo de Paria, Venezuela",Sismo,,5.3,,71
+2003-02-18T17:43:38.020Z,9.206,-70.313,33,4.6,mb,,,1.24,"Trujillo, Venezuela",Sismo,,,,18
+2003-03-09T02:33:10.130Z,7.038,-72.882,200,4,mb,178.7,,0.38,Frontera Colombia-Venezuela,Sismo,,,,1
+2003-04-22T13:28:55.370Z,7.088,-72.751,33,4.6,mb,101.5,,0.8,Frontera Colombia-Venezuela,Sismo,,,,20
+2003-04-24T13:05:21.990Z,10.772,-63.008,121.5,4.5,mb,94.6,,0.84,"Costa Afuera de Sucre, Venezuela",Sismo,,,,42
+2003-05-20T05:36:39.630Z,10.108,-72.682,134.9,4.2,mb,120.5,,1.16,"Zulia, Venezuela",Sismo,,,,12
+2003-05-24T00:07:41.020Z,6.498,-65.147,13.2,4.5,mb,80.9,,0.95,"Bolivar, Venezuela",Sismo,,,,13
+2003-06-01T16:15:06.410Z,9.786,-62.849,38.2,4.8,mb,48.4,,0.95,"Monagas, Venezuela",Sismo,,,,90
+2003-06-17T00:57:48.290Z,8.275,-70.551,33,4.4,mb,79.5,,1.24,"Barinas, Venezuela",Sismo,,,,34
+2003-06-30T13:47:58.550Z,7.016,-72.956,150,4.2,mb,183.2,,1.21,Frontera Colombia-Venezuela,Sismo,,,,1
+2003-07-03T08:45:35.270Z,11.066,-62.349,129.6,4.4,md,153.2,,0.95,"Costa Afuera de Sucre, Venezuela",Sismo,,9.1,,
+2003-08-14T16:27:36.140Z,10.908,-62.588,128,4.5,mb,69.8,,0.91,"Costa Afuera de Sucre, Venezuela",Sismo,,9.1,,28
+2003-08-18T13:29:38.380Z,7.297,-72.777,100,4.1,mb,192.7,,1.19,Frontera Colombia-Venezuela,Sismo,,,,4
+2003-08-28T09:41:35.850Z,10.851,-62.37,33,3.9,mb,176.2,,1.11,"Costa Afuera de Sucre, Venezuela",Sismo,,,,4
+2003-09-02T00:02:02.110Z,10.39,-62.533,51.7,4.5,mb,122.2,,1.27,"Golfo de Paria, Venezuela",Sismo,,11,,1
+2003-10-02T06:00:46.600Z,10.52,-63.43,0.1,4,mb,120.7,,,"Sucre, Venezuela",Sismo,,,,8
+2003-11-18T13:19:09.520Z,7.005,-72.878,150,3.8,mb,193.8,,0.71,Frontera Colombia-Venezuela,Sismo,,,,1
+2003-12-14T00:31:49.120Z,11.36,-62.567,119.5,3.8,mb,191.5,,1.22,"Costa Afuera de Sucre, Venezuela",Sismo,,10.5,,3
+2003-12-20T12:12:44.230Z,10.48,-63.157,33,4.7,mb,82,,0.95,"Sucre, Venezuela",Sismo,,,,45
+2004-01-15T10:56:20.240Z,10.851,-62.468,98,5.1,mwc,43.6,,0.87,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2004-02-22T12:17:39.830Z,7.976,-71.635,53.2,3.9,mb,168,,0.96,"Tachira, Venezuela",Sismo,,32,,2
+2004-02-25T18:13:55.600Z,10.768,-62.666,119.6,4.5,mb,95.2,,1.01,"Costa Afuera de Sucre, Venezuela",Sismo,,,,17
+2004-02-26T17:17:45.540Z,10.825,-72.484,42.6,4.6,mb,83.5,,1.03,"Zulia, Venezuela",Sismo,,10.8,,12
+2004-03-12T11:03:44.780Z,11.128,-70.636,110.9,4.1,mb,143.3,,0.8,"Falcon, Venezuela",Sismo,,10.8,,3
+2004-03-17T23:52:22.750Z,10.455,-63.622,10,4,mb,123.4,,0.99,"Sucre, Venezuela",Sismo,,,,6
+2004-04-04T17:17:42.670Z,8.041,-71.919,26.2,4.6,mb,86.5,,0.87,"Tachira, Venezuela",Sismo,,10.8,,36
+2004-04-26T07:17:47.000Z,10.936,-62.436,118.1,4.2,mb,106,,0.91,"Costa Afuera de Sucre, Venezuela",Sismo,,4.4,,12
+2004-05-01T19:32:52.370Z,10.126,-62.948,10,4.5,mb,148.1,,0.97,"Sucre, Venezuela",Sismo,,0,,2
+2004-05-30T13:12:37.540Z,10.907,-62.551,87.1,4.2,mb,62,,0.81,"Costa Afuera de Sucre, Venezuela",Sismo,,,,25
+2004-06-06T21:45:48.230Z,8.603,-72.116,18.2,3.7,mb,85.9,,0.86,"Zulia, Venezuela",Sismo,,33.4,,1
+2004-06-29T09:49:15.780Z,10.831,-62.687,107.7,4.4,mb,45.7,,0.99,"Costa Afuera de Sucre, Venezuela",Sismo,,,,11
+2004-07-23T12:06:38.110Z,10.545,-62.503,38.3,4.4,mb,99,,0.89,"Sucre, Venezuela",Sismo,,6.1,,14
+2004-09-13T02:59:38.000Z,9.19,-70.09,1.4,4.7,mb,51.3,,,"Trujillo, Venezuela",Sismo,,,,34
+2004-11-04T21:28:32.820Z,10.91,-62.495,106,4.6,mb,59.3,,0.81,"Costa Afuera de Sucre, Venezuela",Sismo,,6.7,,37
+2004-11-20T06:12:39.210Z,11.786,-69.358,13.3,3.9,mb,135.3,,0.82,"Costa Afuera de Falcon, Venezuela",Sismo,,22.2,,1
+2004-11-28T17:29:52.970Z,9.977,-70.002,5,4.4,md,117.8,,1.21,"Lara, Venezuela",Sismo,,,,
+2004-12-02T19:16:34.660Z,10.49,-61.48,49,5.8,mwc,28,,0.93,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2004-12-11T04:45:22.200Z,10.99,-62.31,95.3,4.5,mb,101.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,8
+2004-12-25T09:08:36.400Z,10.4,-72.57,9.4,4.4,mb,60.2,,,"Zulia, Venezuela",Sismo,,,,7
+2005-01-12T13:52:45.330Z,8.902,-62.01,51,4.7,mb,62.4,,1.17,"Delta Amacuro, Venezuela",Sismo,,5.6,,16
+2005-01-19T20:18:59.930Z,10.67,-62.566,96,3.5,md,278.7,,,"Sucre, Venezuela",Sismo,,,,
+2005-01-21T06:05:17.610Z,10.873,-62.657,99.4,4.3,mb,65.2,,0.68,"Costa Afuera de Sucre, Venezuela",Sismo,,4.2,,13
+2005-01-24T14:03:22.360Z,10.486,-62.205,5,3.4,md,275,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2005-01-24T20:45:30.960Z,10.965,-62.394,70,3.2,md,281.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-01-25T12:34:19.580Z,10.286,-62.012,4,3.7,md,283.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2005-01-25T20:28:02.810Z,10.356,-62.164,5,4,md,167.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2005-02-02T00:57:25.290Z,10.964,-62.317,109,3.1,md,260.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-02-03T05:40:20.080Z,10.759,-62.377,28,3.4,md,271,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-02-04T00:28:07.690Z,10.92,-62.252,73,2.9,md,257.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-02-21T11:52:51.950Z,11.237,-62.115,93,3.5,md,240.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-03-12T07:40:25.200Z,11.141,-62.324,112,3.6,md,252.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-03-13T01:34:57.490Z,11.352,-62.26,137.1,3.7,md,112,,0.74,"Costa Afuera de Sucre, Venezuela",Sismo,,6.3,,
+2005-03-14T10:26:46.900Z,11.158,-62.085,106,3.6,md,239,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-03-15T10:23:30.390Z,10.652,-62.508,72,3.1,md,281.3,,,"Sucre, Venezuela",Sismo,,,,
+2005-03-17T06:23:47.500Z,11.265,-61.773,16,3.4,md,205.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-03-22T15:46:05.040Z,10.825,-62.302,108,3.1,md,264.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-03-22T16:20:55.400Z,10.41,-62.39,8.5,4.5,mb,55.3,,,"Golfo de Paria, Venezuela",Sismo,,,,15
+2005-03-23T18:13:22.170Z,10.765,-62.612,91.6,4.3,mb,70.5,,1.07,"Costa Afuera de Sucre, Venezuela",Sismo,,6.9,,5
+2005-03-24T18:41:22.740Z,10.805,-62.399,101,3.3,md,270.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-03-25T11:40:02.010Z,10.921,-62.225,76,3.1,md,255.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-03-26T16:00:39.910Z,10.559,-62.351,5,4.4,mb,85.9,,,"Sucre, Venezuela",Sismo,,,,4
+2005-03-28T00:45:05.500Z,9.72,-69.91,10.4,4.5,mb,62.7,,,"Lara, Venezuela",Sismo,,,,21
+2005-03-28T00:51:17.600Z,9.72,-69.91,0.4,4.1,md,136.2,,,"Lara, Venezuela",Sismo,,,,
+2005-04-01T15:52:54.600Z,10.903,-62.066,26,3,md,243.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-04-04T11:59:52.230Z,11.06,-62.078,122,3.1,md,240.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-04-05T03:45:39.990Z,9.591,-69.993,23.7,3.8,md,77.1,,1.06,"Lara, Venezuela",Sismo,,13.9,,
+2005-04-06T22:17:53.840Z,8.712,-70.565,10,4.2,mb,81.5,,1.03,"Barinas, Venezuela",Sismo,,,,5
+2005-04-09T13:36:01.000Z,10.215,-69.728,12.5,4,md,80.3,,,"Lara, Venezuela",Sismo,,,,
+2005-04-12T07:50:54.540Z,11.063,-62.16,11,2.9,md,309,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-04-22T18:20:18.430Z,11.114,-62.218,78.4,3.2,md,246.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-04-26T00:53:40.800Z,9.185,-70.108,0.5,5.2,mw,62.3,,,"Trujillo, Venezuela",Sismo,,,,
+2005-04-26T03:13:32.300Z,9.152,-70.084,2.9,3.6,mw,68.7,,,"Trujillo, Venezuela",Sismo,,,,
+2005-05-03T00:43:22.370Z,10.991,-62.283,90,3.1,md,257.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-05-07T23:49:12.220Z,11.018,-62.189,19,3.3,md,250.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-05-09T02:19:16.570Z,10.835,-62.082,3,2.8,md,247.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-05-15T16:41:09.360Z,11.221,-62.623,133.9,3.6,mb,149.7,,0.82,"Costa Afuera de Sucre, Venezuela",Sismo,,18.7,,2
+2005-05-22T04:45:44.900Z,10.856,-62.712,85.3,3.7,md,134.3,,1.35,"Costa Afuera de Sucre, Venezuela",Sismo,,22.4,,
+2005-05-24T13:43:20.030Z,9.866,-70.641,19,4.5,mb,51.7,,0.98,"Trujillo, Venezuela",Sismo,,,,34
+2005-06-03T06:08:33.800Z,10.388,-62.266,57,4,mw,75,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2005-06-04T23:31:28.500Z,10.303,-62.26,0.1,4.1,mw,40.4,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2005-06-11T05:05:43.310Z,10.439,-61.896,5,3,md,262.2,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2005-06-16T01:42:23.700Z,11.003,-62.13,80,2.8,md,246.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-06-17T18:39:38.900Z,10.599,-61.852,12,3,md,241.5,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2005-06-23T11:17:38.340Z,11,-62.192,94.3,3.4,md,251,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-06-25T00:43:00.710Z,10.382,-62.183,3,3.8,md,165.5,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2005-06-26T08:39:03.350Z,10.52,-62.359,5,3.2,md,280.1,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2005-06-28T14:25:59.950Z,8.078,-69.883,9,4.5,mb,73.8,,0.83,"Barinas, Venezuela",Sismo,,10,,10
+2005-07-03T21:52:08.260Z,10.292,-62.275,5,3.1,md,289.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2005-07-05T08:08:00.150Z,8.707,-61.851,49.5,4.1,md,159.9,,0.97,"Delta Amacuro, Venezuela",Sismo,,8.8,,
+2005-07-06T20:10:08.590Z,10.923,-62.136,5,3.1,md,326.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-07-08T13:47:40.000Z,10.708,-62.121,34,2.6,md,256.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-07-09T13:47:13.820Z,10.334,-62.423,5,3.6,md,291.4,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2005-07-10T12:06:59.340Z,10.909,-62.204,68,3.4,md,254.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-07-14T14:16:40.080Z,11.092,-62.15,19.7,2.9,md,264.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-07-15T21:02:15.720Z,8.565,-71.337,10,4.8,mwc,65.8,,0.7,"Merida, Venezuela",Sismo,,,,
+2005-07-17T11:10:51.920Z,10.531,-61.785,30.2,3,md,293.7,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2005-07-18T01:45:51.600Z,10.321,-61.478,46.5,3.1,md,274.3,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2005-07-19T06:41:28.460Z,11.283,-61.936,93.4,3.4,md,223.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-07-21T18:50:29.010Z,10.776,-62.407,17.7,3.7,md,319.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-07-25T04:23:57.580Z,9.967,-63.014,50.1,4.3,mb,41.2,,0.93,"Monagas, Venezuela",Sismo,,6,,9
+2005-07-25T04:27:30.800Z,9.87,-62.75,20.2,3.5,md,314.3,,,"Monagas, Venezuela",Sismo,,,,
+2005-07-25T04:27:56.100Z,9.86,-62.84,18.7,4.1,md,315,,,"Monagas, Venezuela",Sismo,,,,
+2005-08-01T17:58:30.500Z,8.583,-70.815,0.1,4,mw,76.3,,,"Barinas, Venezuela",Sismo,,,,
+2005-08-04T04:35:39.550Z,10.94,-62.479,103.9,4.6,mw,30.9,,1.11,"Costa Afuera de Sucre, Venezuela",Sismo,,2.5,,
+2005-08-04T05:21:49.220Z,10.923,-62.226,131,3.1,md,255.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-08-04T05:27:17.960Z,10.902,-62.361,67,3,md,265.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-08-08T09:38:38.200Z,11.754,-66.201,32.5,4.7,mw,65.4,,,Mar Caribe,Sismo,,,,
+2005-08-12T05:47:03.470Z,9.18,-70.332,1,3.9,mb,116.3,,1.03,"Trujillo, Venezuela",Sismo,,17,,1
+2005-08-15T01:55:32.410Z,9.755,-69.802,30,4.3,mb,157.8,,1.06,"Lara, Venezuela",Sismo,,,,11
+2005-08-15T01:56:52.830Z,9.726,-69.59,12.4,4.8,mb,75.8,,1.11,"Lara, Venezuela",Sismo,,21.9,,48
+2005-08-16T09:21:08.310Z,8.686,-70.68,14.8,3.6,mb,149.5,,0.36,"Barinas, Venezuela",Sismo,,7.8,,2
+2005-08-17T06:42:31.140Z,9.398,-62.068,17,4.6,mb,229.9,,1.23,"Delta Amacuro, Venezuela",Sismo,,,,24
+2005-08-18T03:59:20.560Z,10.573,-61.806,29,2.9,md,292.8,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2005-08-22T21:07:59.390Z,10.866,-61.847,24,2.9,md,251.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-08-23T03:34:21.210Z,10.774,-62.354,79,3.8,md,80.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-08-23T10:38:15.680Z,10.418,-62.26,8,3.2,md,281.5,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2005-08-28T23:03:10.400Z,11.42,-70.42,25,4.2,mb,57.6,,,Golfo de Venezuela,Sismo,,,,2
+2005-09-03T06:18:56.550Z,10.833,-62.307,75,2.9,md,264.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-09-07T14:57:55.950Z,10.77,-62.141,74,2.9,md,255.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-09-11T07:50:55.440Z,10.945,-62.107,155,3.8,md,226.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-09-11T13:52:50.480Z,11.095,-62.165,29,3.8,md,227.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-09-12T22:29:42.700Z,10.909,-62.272,85,3.1,md,276.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-09-13T08:59:08.200Z,10.34,-63.08,24.6,3.7,md,311.8,,,"Sucre, Venezuela",Sismo,,,,
+2005-09-14T10:25:43.650Z,11.238,-62.238,130,3.1,md,251,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-09-14T21:19:20.210Z,10.899,-62.615,90,3.1,md,291.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-09-15T02:20:31.860Z,10.818,-62.288,74,3.2,md,124.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-09-15T06:46:26.520Z,10.128,-72.379,178.6,4.3,mb,82.1,,0.72,"Zulia, Venezuela",Sismo,,16.4,,1
+2005-10-05T22:34:19.900Z,11.023,-61.827,12,2.9,md,236.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-10-10T12:49:53.310Z,10.827,-62.183,64,3.1,md,207.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-10-13T14:49:44.000Z,9.68,-62.55,24.7,4,md,313.6,,,"Monagas, Venezuela",Sismo,,,,
+2005-10-17T02:47:59.780Z,10.378,-63.718,35,3.4,mb,79.2,,1.08,"Sucre, Venezuela",Sismo,,,,1
+2005-10-19T20:53:44.800Z,11.37,-69.61,13.6,4.3,mb,57.8,,,"Falcon, Venezuela",Sismo,,,,3
+2005-10-19T21:26:10.980Z,10.79,-62.376,24,3,md,269.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-10-24T09:19:19.780Z,11.138,-62.079,116,5.1,mwc,37.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-10-27T02:27:42.680Z,10.874,-62.264,10,3.3,md,260.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-10-28T22:30:58.240Z,11.07,-62.04,64.2,5.4,mwc,30.8,,0.88,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-11-24T11:25:08.170Z,10.823,-62.599,34,3.1,md,280.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-11-29T05:47:41.040Z,11.111,-61.936,85,3.3,md,225.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-11-29T14:18:22.360Z,10.821,-62.277,69,2.8,md,156.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-12-01T18:31:33.610Z,7.067,-72.764,189.2,4.3,mb,47,,0.87,Frontera Colombia-Venezuela,Sismo,,6.3,,18
+2005-12-01T22:21:12.700Z,10.764,-62.208,78.4,4,mw,50.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-12-02T03:54:29.470Z,10.603,-61.71,7,2.9,md,223.7,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2005-12-08T13:02:22.280Z,10.802,-62.189,79,3.1,md,257.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-12-09T15:05:27.800Z,10.295,-62.344,0.2,4,mw,68.4,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2005-12-12T03:45:15.230Z,11.071,-62.106,26,3.4,md,198.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-12-13T14:43:07.380Z,11.291,-61.795,10.1,2.8,md,207.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-12-14T02:04:43.760Z,10.604,-62.146,0,3.6,md,67.9,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2005-12-14T21:32:12.100Z,8.332,-70.623,1.2,4.3,mw,178.2,,,"Barinas, Venezuela",Sismo,,,,
+2005-12-16T22:40:37.200Z,10.191,-62.236,5,3.2,md,295.3,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2005-12-19T21:33:13.890Z,10.753,-62.201,80,3.7,md,254.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2005-12-25T04:35:24.680Z,10.822,-62.402,103,3.6,md,139.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-01-01T09:43:14.810Z,11.839,-71.193,69,5.1,mwc,36.3,,0.87,Golfo de Venezuela,Sismo,,,,
+2006-01-01T12:06:07.200Z,10.939,-62.219,67,3.3,md,272.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-01-03T02:52:53.430Z,10.235,-62.489,17,3.2,md,335.2,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-01-03T05:02:26.300Z,10.725,-62.244,91,3.1,md,264.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-01-03T22:15:06.000Z,9.889,-71.915,5.8,5,mw,58.4,,,"Lago de Maracaibo, Venezuela",Sismo,,,,
+2006-01-09T08:07:34.260Z,10.44,-62.244,3,3,md,279.6,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-01-14T13:30:07.050Z,11.031,-62.089,86,3.2,md,242,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-01-15T08:07:59.670Z,10.843,-62.229,72,2.7,md,229.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-01-21T05:12:58.040Z,10.812,-62.542,34,3.1,md,278.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-01-23T23:46:12.600Z,9.085,-70.044,0.1,4.8,mw,44.8,,,"Portuguesa, Venezuela",Sismo,,,,
+2006-01-24T22:27:00.050Z,11.237,-61.976,125,3.8,md,77.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-01-30T05:34:36.030Z,11.275,-62.042,34,3.1,md,234,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-02-02T05:54:47.590Z,11.168,-62.052,14,3.2,md,252,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-02-03T00:49:02.100Z,10.585,-63.724,1.5,4.2,mw,49.5,,,"Sucre, Venezuela",Sismo,,,,
+2006-02-03T07:46:16.360Z,10.859,-62.338,63,3.1,md,280.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-02-03T18:21:10.700Z,10.604,-61.603,10,2.9,md,262.1,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2006-02-09T19:53:28.800Z,10.377,-62.702,16.4,4.2,mw,83.8,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-02-10T04:36:09.170Z,7.357,-72.95,157.5,4,mb,93,,0.98,Frontera Colombia-Venezuela,Sismo,,9.7,,2
+2006-02-15T00:32:44.810Z,10.398,-62.052,9,3.4,md,274.6,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-02-15T04:17:54.330Z,10.902,-62.194,94,3.2,md,271.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-02-19T06:26:35.630Z,10.872,-62.228,66,3.1,md,257.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-02-20T23:03:30.110Z,10.673,-62.296,106,3.4,md,284.1,,,"Sucre, Venezuela",Sismo,,,,
+2006-03-02T00:48:07.400Z,10.423,-72.154,161.7,4.2,mw,41.3,,,"Zulia, Venezuela",Sismo,,,,
+2006-03-14T02:49:36.190Z,10.677,-62.467,92,3.8,md,76.1,,,"Sucre, Venezuela",Sismo,,,,
+2006-03-14T08:16:09.800Z,10.453,-61.64,47,3.4,md,169.3,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2006-03-17T06:31:14.420Z,11.18,-61.984,117,3,md,229.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-03-21T18:34:23.700Z,10.06,-69.74,0.1,4.1,md,314.8,,,"Lara, Venezuela",Sismo,,,,
+2006-03-22T21:35:06.810Z,10.793,-62.313,88,3,md,281.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-03-23T06:38:03.320Z,10.422,-62.339,3,3.7,md,163.4,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-03-23T12:12:46.360Z,11.067,-62.263,131,3.1,md,255.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-03-24T11:37:41.590Z,10.99,-62.354,83,2.9,md,278.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-03-26T07:17:51.030Z,10.954,-62.4,106,3.6,md,79.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-03-26T08:37:43.210Z,9.256,-61.446,71,3.9,md,247.8,,,"Delta Amacuro, Venezuela",Sismo,,,,
+2006-03-28T03:53:35.470Z,10.477,-62.367,80,3.5,md,282.2,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-03-31T18:24:34.500Z,10.974,-62.089,82.4,4.2,mw,156.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-04-08T11:56:48.430Z,10.879,-61.815,27,3,md,219.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-04-09T01:13:41.200Z,10.909,-62.248,85,3.3,md,255.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-04-10T04:06:07.200Z,7.378,-71.627,13,4.9,mb,45.2,,,"Apure, Venezuela",Sismo,,,,53
+2006-04-12T10:31:05.900Z,10.891,-62.079,60.8,4,mw,55.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-04-14T23:16:24.800Z,10.334,-69.877,4.5,4.6,mw,70.5,,,"Lara, Venezuela",Sismo,,,,
+2006-04-16T02:12:40.550Z,10.998,-62.316,107,3.1,md,275.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-04-24T08:19:23.600Z,11.307,-62.198,6,3.2,md,246.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-04-28T15:46:43.190Z,10.172,-62.573,56.3,4.6,mb,53.4,,0.88,"Monagas, Venezuela",Sismo,,5,,17
+2006-05-03T02:12:33.250Z,10.798,-62.371,90,3.1,md,269.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-05-07T22:21:27.400Z,10.727,-62.26,85,2.5,md,265,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-05-27T20:43:49.250Z,9.865,-61.458,63,4.2,md,258.5,,,"Delta Amacuro, Venezuela",Sismo,,,,
+2006-05-31T08:21:01.200Z,11.01,-61.979,138,3.2,md,252.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-06-13T12:25:28.160Z,10.885,-62.372,93.4,4.4,mb,30.6,,1.13,"Costa Afuera de Sucre, Venezuela",Sismo,,,,8
+2006-06-14T19:49:04.520Z,11.088,-62.276,10,3.3,md,255,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-06-14T20:31:04.600Z,11.259,-61.912,19,2.8,md,120.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-06-15T21:34:19.590Z,10.692,-61.928,116,4.1,mb,80.1,,,"Sucre, Venezuela",Sismo,,,,2
+2006-06-17T17:23:01.830Z,10.843,-62.254,73,2.9,md,277,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-06-29T07:50:21.820Z,10.704,-62.161,73,3.5,md,259.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-07-01T17:24:09.100Z,8.099,-64.204,5.9,4.4,mw,52.8,,,"Anzoategui, Venezuela",Sismo,,,,
+2006-07-06T08:28:25.040Z,8.875,-70.55,10,3.3,mb,159.4,,1.1,"Barinas, Venezuela",Sismo,,,,2
+2006-07-16T08:01:39.170Z,10.582,-61.505,32,2.5,md,155.7,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2006-07-18T15:09:28.740Z,11.204,-61.775,78,3.3,md,206.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-07-20T11:57:30.000Z,10.896,-62.092,92.6,4,mw,57.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-07-21T07:01:41.940Z,11.282,-62.132,108,3.3,md,255.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-07-21T22:15:17.770Z,10.92,-62.211,54,3.1,md,272.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-07-23T17:10:49.460Z,10.089,-62.436,21,3.6,md,303.4,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-07-31T03:27:38.560Z,10.661,-61.903,30,3.3,md,241.5,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-08-02T05:00:18.100Z,10.379,-62.359,1.1,4.4,mw,83.3,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-08-02T12:39:49.200Z,9.559,-70.613,8.3,4,mw,69,,,"Trujillo, Venezuela",Sismo,,,,
+2006-08-02T23:29:37.540Z,11.098,-62.048,116,3.4,md,236.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-08-03T10:36:40.360Z,10.405,-62.359,2,3.3,md,285.9,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-08-04T03:41:47.210Z,10.382,-62.288,11,4.9,mb,32.7,,,"Golfo de Paria, Venezuela",Sismo,,,,69
+2006-08-04T13:41:39.830Z,9.974,-70.649,14.6,5.2,mwc,42.3,,0.83,"Trujillo, Venezuela",Sismo,,3.7,,
+2006-08-04T22:40:04.410Z,11.024,-62.365,12,3.3,md,277.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-08-05T01:35:20.230Z,10.719,-62.379,84,3.6,md,272,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-08-05T20:46:07.690Z,10.921,-62.466,87,3.2,md,283.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-08-07T04:58:52.830Z,10.313,-61.827,12,3,md,320.5,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2006-08-07T06:42:42.830Z,10.461,-61.886,6,3.7,md,259,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-08-11T01:17:47.640Z,10.716,-62.628,66,3.3,md,293.8,,,"Sucre, Venezuela",Sismo,,,,
+2006-08-14T15:24:47.160Z,10.413,-62.23,4,3.5,md,163.3,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-08-14T21:44:29.400Z,10.985,-62.114,28,3.1,md,265,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-08-16T00:33:05.220Z,8.744,-61.833,109,4,md,337.9,,,"Delta Amacuro, Venezuela",Sismo,,,,
+2006-08-16T17:13:02.880Z,11.024,-62.005,101,3.2,md,254.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-08-18T15:17:11.630Z,10.532,-62.108,3,3.8,md,245,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-08-25T12:47:35.210Z,10.821,-62.382,64,4.5,mb,66.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,1
+2006-08-26T11:55:14.780Z,10.721,-61.952,46,3.1,md,298.9,,,"Sucre, Venezuela",Sismo,,,,
+2006-08-29T06:22:36.880Z,10.391,-62.409,5,3.1,md,288.2,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-08-29T11:06:57.200Z,11.204,-62.104,5,3.2,md,339.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-08-31T04:55:49.840Z,10.871,-62.052,51,2.8,md,243.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-08-31T06:33:11.180Z,11.092,-62.1,116,3.4,md,241.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-08-31T22:50:50.390Z,7.835,-72.27,71.4,4.4,mb,65.2,,0.67,"Tachira, Venezuela",Sismo,,5.8,,16
+2006-09-03T19:49:24.990Z,11.025,-62.285,92,3.4,md,256.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-09-04T04:53:09.440Z,10.249,-61.575,39,3.3,md,292.6,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2006-09-04T18:37:29.900Z,10.6,-63.23,10.2,3.6,md,158.5,,,"Sucre, Venezuela",Sismo,,,,
+2006-09-07T05:29:09.920Z,10.591,-62.519,57,3.3,md,294.1,,,"Sucre, Venezuela",Sismo,,,,
+2006-09-10T11:18:45.410Z,10.907,-62.175,61,3.9,md,127.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-09-11T14:58:08.310Z,10.801,-61.866,21,3.3,md,228.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-09-19T06:11:12.730Z,11.176,-62.033,15,3,md,250.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-09-22T13:58:11.910Z,10.83,-62.403,27,3.6,md,270.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-09-23T01:54:17.650Z,10.624,-61.602,20,3.3,md,203.8,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2006-09-23T08:42:29.720Z,10.392,-61.808,16,3.7,md,262.7,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2006-09-23T18:16:33.840Z,11.1,-62.103,62,2.7,md,243,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-09-24T00:50:20.530Z,10.867,-62.404,28,4.3,mb,61.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,4
+2006-09-24T21:40:08.720Z,10.501,-61.496,23,3.3,md,141.3,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2006-09-28T03:41:19.730Z,10.157,-62.393,2,3.2,md,299.6,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-09-28T06:37:58.530Z,11.028,-62.268,89,3,md,201.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-09-29T14:13:45.590Z,10.763,-61.806,35,3.6,md,170.9,,1.01,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-10-01T03:33:55.030Z,10.506,-62.849,4,3.4,md,297.6,,,"Sucre, Venezuela",Sismo,,,,
+2006-10-02T00:54:39.920Z,10.918,-62.317,77,3.2,md,258.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-10-02T11:29:30.000Z,10.862,-62.213,109,3,md,277.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-10-09T06:18:09.000Z,10.838,-62.27,91,3.2,md,277.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-10-10T06:24:35.630Z,10.335,-62.168,21,2.8,md,317.2,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-10-12T08:41:10.280Z,11.126,-61.833,45,2.6,md,199.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-10-17T20:31:15.090Z,10.637,-62.667,84,3.1,md,287.2,,,"Sucre, Venezuela",Sismo,,,,
+2006-10-18T05:24:28.420Z,10.928,-62.116,70,3,md,247,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-10-20T22:58:37.920Z,10.933,-62.2,66,3.2,md,253.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-10-21T08:22:07.170Z,10.697,-62.466,108,3.6,md,191.3,,,"Sucre, Venezuela",Sismo,,,,
+2006-10-23T19:50:23.040Z,10.839,-62.552,97,3.2,md,210.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-10-25T06:29:56.400Z,10.639,-61.611,14,2.9,md,138.7,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2006-10-27T16:17:18.530Z,10.923,-62.156,51,3.2,md,250.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-10-28T13:31:54.100Z,11.42,-69.6,14.9,4,md,136.7,,,"Falcon, Venezuela",Sismo,,,,
+2006-10-29T17:17:36.430Z,11.078,-62.245,59,3.1,md,253.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-11-03T06:32:51.810Z,10.904,-62.203,78,3,md,254.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-11-04T18:42:10.410Z,10.803,-62.257,86,3.5,md,242.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-11-06T04:17:50.630Z,10.996,-62.446,96,4,mb,45.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,6
+2006-11-07T14:41:24.110Z,10.74,-62.386,72,3.2,md,271.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-11-08T17:12:05.670Z,10.615,-62.359,82,3,md,275.7,,,"Sucre, Venezuela",Sismo,,,,
+2006-11-11T20:36:23.740Z,11.432,-64.816,27,4.1,mb,67.9,,,"Costa Afuera, Venezuela ",Sismo,,,,1
+2006-11-11T23:34:07.890Z,10.956,-62.259,86,3.2,md,257.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-11-15T13:40:51.680Z,11.075,-62.417,95,3.3,md,266.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-11-15T20:25:51.160Z,10.77,-62.686,96.8,4.9,mb,40.4,,0.95,"Costa Afuera de Sucre, Venezuela",Sismo,,,,87
+2006-11-18T06:21:44.680Z,10.281,-62.326,9,3.2,md,291.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-11-19T00:40:31.760Z,10.449,-62.508,63,3.4,md,297,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-11-21T11:39:09.980Z,10.684,-61.687,17,2.7,md,139.5,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2006-11-22T04:10:09.700Z,10.818,-62.161,90,2.9,md,327.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-11-22T10:49:58.120Z,10.405,-62.316,6,3.2,md,284.4,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-11-25T10:07:17.100Z,10.278,-62.334,3,3.1,md,292,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-11-30T22:40:52.930Z,10.679,-61.994,12,3.5,md,248.6,,,"Sucre, Venezuela",Sismo,,,,
+2006-12-02T20:27:48.510Z,10.883,-62.042,80,3.8,md,242.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-12-04T02:52:43.770Z,10.629,-61.659,35,3.8,md,76,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2006-12-04T08:01:39.080Z,10.466,-61.534,59,2.5,md,165.7,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2006-12-10T21:55:58.950Z,10.287,-62.318,3,2.9,md,325.8,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-12-14T00:00:07.340Z,10.947,-62.052,99,2.9,md,247.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-12-15T16:52:09.050Z,11.046,-62.058,109,3.1,md,238.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-12-16T20:19:16.060Z,11.293,-62.343,155,3.7,md,106.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2006-12-27T03:29:37.260Z,10.688,-62.448,59.6,3,md,334.7,,,"Sucre, Venezuela",Sismo,,,,
+2006-12-30T20:28:17.200Z,10.452,-62.297,2.2,3.3,md,324.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2006-12-31T05:34:32.600Z,8.732,-61.681,4.6,4.4,mw,95.9,,,"Delta Amacuro, Venezuela",Sismo,,,,
+2007-01-22T07:37:45.810Z,10.867,-62.34,74.2,3.2,md,316.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-01-25T08:39:18.030Z,11.036,-62.551,3,3.3,md,345.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-01-29T00:53:44.400Z,10.924,-62.102,92,3.5,md,240.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-01-30T00:31:44.050Z,10.371,-62.752,3,3.1,md,334.9,,,"Sucre, Venezuela",Sismo,,,,
+2007-02-01T03:02:57.350Z,10.513,-62.825,3,3.7,md,296.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-02-03T21:13:42.460Z,11.081,-69.326,12.9,4.5,mb,105.5,,0.8,"Falcon, Venezuela",Sismo,,24.1,,2
+2007-02-07T03:03:47.480Z,10.364,-62.224,3,3.1,md,283.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-02-07T09:35:24.190Z,10.762,-62.326,43,3,md,282.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-02-08T12:53:25.700Z,9.144,-63.444,4.5,3.8,mb,62.5,,,"Monagas, Venezuela",Sismo,,,,1
+2007-02-09T14:46:26.630Z,10.398,-62.325,3,3.3,md,336.2,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-02-11T06:15:56.100Z,10.425,-62.165,3,3.4,md,252.2,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-02-15T02:15:07.810Z,9.939,-62.034,23,3.1,md,316.2,,,"Delta Amacuro, Venezuela",Sismo,,,,
+2007-02-15T21:26:04.120Z,10.84,-62.482,85,3.3,md,274.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-02-19T01:01:41.930Z,10.41,-62.254,5,3.3,md,281.8,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-02-20T22:16:43.120Z,10.649,-61.747,43,3,md,214.4,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2007-02-27T12:53:31.730Z,10.949,-62.07,76,3,md,249.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-02-27T13:25:48.460Z,10.783,-62.54,78,4.4,mw,73.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-02-27T15:30:39.200Z,10.635,-62.492,83,3.8,md,151.4,,,"Sucre, Venezuela",Sismo,,,,
+2007-03-02T00:41:44.810Z,10.487,-62.294,2,3.2,md,279,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-03-04T11:31:03.540Z,10.669,-63.23,3,3.4,md,336.6,,,"Sucre, Venezuela",Sismo,,,,
+2007-03-11T22:25:53.450Z,7.667,-72.778,182.9,3.8,mb,75.2,,0.65,Frontera Colombia-Venezuela,Sismo,,5.8,,4
+2007-03-11T23:09:29.090Z,10.64,-61.624,3,2.5,md,153.8,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2007-03-12T23:23:51.600Z,10.848,-62.152,69.8,4.5,mw,26.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-03-13T19:18:29.660Z,7.11,-72.885,179.3,4.1,mb,99.6,,0.97,Frontera Colombia-Venezuela,Sismo,,,,8
+2007-03-14T16:42:49.460Z,10.368,-62.406,3,4.1,md,72.5,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-03-14T18:36:09.620Z,10.447,-62.386,4,3.7,md,284.4,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-03-20T23:27:35.620Z,10.532,-62.531,2,3.7,md,75.6,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-03-21T00:13:23.330Z,10.474,-62.621,0,3.4,md,291.6,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-03-22T12:56:58.100Z,12.149,-70.176,13.1,3.9,mw,41.9,,,"Costa Afuera de Falcon, Venezuela",Sismo,,,,
+2007-03-23T08:29:08.610Z,10.474,-62.04,12,3.9,md,53.4,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-03-24T05:54:39.170Z,7.207,-72.007,36.9,4.3,mw,43.4,,0.82,"Apure, Venezuela",Sismo,,3.6,,
+2007-03-24T11:29:42.930Z,11.119,-61.857,32,2.8,md,280,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-03-26T22:01:22.530Z,10.615,-62.473,86,3.2,md,292.1,,,"Sucre, Venezuela",Sismo,,,,
+2007-03-27T02:52:10.400Z,10.42,-62.61,0.1,3.5,md,164.8,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-03-28T06:55:09.100Z,8.971,-59.59,35.4,4,mw,266.5,,,"Costa Afuera de Delta Amacuro, Venezuela",Sismo,,,,
+2007-03-29T05:17:20.700Z,10.694,-62.479,80,3.3,md,278.5,,,"Sucre, Venezuela",Sismo,,,,
+2007-03-29T06:06:40.150Z,11.344,-61.899,117,3.2,md,208.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-03-29T19:19:15.150Z,10.832,-62.165,80,3.1,md,254.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-04-02T03:24:51.910Z,10.343,-62.222,3,3.3,md,320.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-04-04T04:23:09.330Z,11.178,-64.915,3,4.3,md,166.3,,,"Costa Afuera, Venezuela ",Sismo,,,,
+2007-04-07T02:20:13.010Z,10.875,-62.022,29,3,md,335.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-04-08T13:34:59.780Z,10.965,-61.948,54,3,md,229,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-04-09T12:29:00.100Z,10.338,-62.031,21,3,md,305.4,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-04-11T11:54:09.470Z,10.962,-62.145,35,3.2,md,248.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-04-11T20:38:43.110Z,11.054,-61.801,20,3.1,md,194.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-04-12T14:58:13.590Z,10.866,-61.929,96,3,md,232.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-04-15T13:23:39.210Z,10.94,-62.211,108,2.7,md,340.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-04-16T13:16:52.860Z,10.887,-62.354,91,2.8,md,331.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-04-17T03:45:04.200Z,10.878,-63.016,35,3.5,md,146.1,,1.06,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-04-17T15:28:14.460Z,10.813,-62.454,90,3.1,md,320.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-04-21T09:47:58.130Z,10.713,-62.593,109.3,4.6,mb,41.7,,0.96,"Sucre, Venezuela",Sismo,,,,30
+2007-04-21T14:10:34.080Z,10.491,-62.138,4,3.5,md,271.4,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-04-22T20:53:02.150Z,10.942,-62.44,88,3.3,md,269.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-04-25T09:39:15.390Z,10.856,-62.241,97,3.2,md,259.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-04-27T01:30:44.740Z,11.016,-62.285,110,3,md,257.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-04-28T22:56:29.250Z,11.051,-62.127,8,3.1,md,306.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-04-30T13:32:15.690Z,10.918,-62.212,96,2.8,md,340,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-04-30T15:32:52.390Z,11.328,-61.989,17,2.5,md,333,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-05-03T18:18:52.770Z,10.419,-62.155,7,3.9,md,82.8,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-05-04T12:16:40.000Z,10.894,-62.263,83,4.2,mw,49.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-05-04T17:21:41.790Z,9.652,-62.22,4,3.3,md,330,,,"Delta Amacuro, Venezuela",Sismo,,,,
+2007-05-05T03:57:29.500Z,10.437,-62.638,2.9,4,mw,65.1,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-05-05T09:27:25.510Z,9.671,-62.695,3,4,md,201.8,,,"Monagas, Venezuela",Sismo,,,,
+2007-05-08T02:13:36.200Z,10.581,-62.469,3,3.1,md,282.1,,,"Sucre, Venezuela",Sismo,,,,
+2007-05-09T10:25:21.100Z,9.545,-70.751,4.4,4.9,mw,25.4,,,"Trujillo, Venezuela",Sismo,,,,
+2007-05-11T00:30:48.030Z,11.288,-62.109,108,3.3,md,233.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-05-11T06:42:17.080Z,10.742,-62.346,97,3.4,md,142.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-05-13T17:58:04.770Z,10.775,-62.491,13,3.2,md,334.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-05-15T15:07:19.960Z,10.69,-62.386,78,3.5,md,286.5,,,"Sucre, Venezuela",Sismo,,,,
+2007-05-16T04:33:00.820Z,10.467,-61.963,43,2.9,md,295.6,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-05-19T03:06:44.810Z,10.815,-62.37,74,2.6,md,268.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-05-19T08:55:43.320Z,8.062,-71.954,47.5,4.3,mb,92.9,,1.18,"Tachira, Venezuela",Sismo,,14.4,,1
+2007-05-20T02:19:28.160Z,11.014,-62.179,50,3,md,341.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-05-20T18:49:32.830Z,10.798,-62.395,70,3.1,md,283.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-05-25T08:42:16.430Z,10.34,-62.238,2,3.3,md,169.2,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-05-25T16:54:33.910Z,11.046,-62.112,35,3.1,md,261.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-05-26T16:00:01.970Z,10.72,-62.418,66,3.1,md,273.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-05-27T11:20:08.910Z,10.66,-62.493,86,3.7,md,287.1,,,"Sucre, Venezuela",Sismo,,,,
+2007-05-28T05:35:26.360Z,10.778,-62.374,78,3.1,md,283.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-05-29T07:42:42.340Z,10.824,-62.323,73,3.3,md,265.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-05-31T08:51:48.170Z,10.541,-61.541,33,3,md,148.4,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2007-05-31T12:43:22.390Z,11.199,-62.09,114,2.7,md,237.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-06-02T03:31:07.780Z,10.764,-62.723,3,3.3,md,286,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-06-02T06:53:09.720Z,10.929,-62.356,60,3.2,md,263.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-06-04T01:59:02.720Z,11.061,-61.982,88,3.6,md,227.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-06-04T05:30:04.230Z,10.995,-62.212,34,3.3,md,252.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-06-04T09:26:21.630Z,10.793,-62.13,83,3,md,253.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-06-19T22:27:09.730Z,7.119,-72.057,61.6,3.7,md,88.1,,0.68,"Apure, Venezuela",Sismo,,9,,
+2007-06-19T23:39:15.480Z,7.182,-72.087,55.5,3.8,md,89.7,,0.81,"Apure, Venezuela",Sismo,,10.7,,
+2007-06-20T08:14:16.520Z,7.081,-72.055,53.2,4.2,mb,84.7,,0.72,"Apure, Venezuela",Sismo,,7.1,,6
+2007-06-20T19:04:06.990Z,7.136,-72.175,23.3,5.2,mwc,24.5,,0.87,Frontera Colombia-Venezuela,Sismo,,,,
+2007-06-21T13:34:52.870Z,7.18,-72.209,49.6,4.1,mb,69.5,,0.84,Frontera Colombia-Venezuela,Sismo,,6.4,,3
+2007-06-25T22:14:49.790Z,10.94,-62.208,102,2.9,md,265.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-06-26T20:07:04.990Z,10.864,-62.053,101,3.3,md,268.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-06-29T06:41:21.550Z,10.461,-61.652,40,3.1,md,211.2,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2007-06-30T04:15:08.580Z,10.182,-62.921,3,3.3,md,176.5,,,"Sucre, Venezuela",Sismo,,,,
+2007-07-03T09:18:41.430Z,10.868,-62.054,75,3,md,256.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-07-05T05:50:12.560Z,10.827,-62.211,74,2.8,md,328.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-07-05T12:32:47.550Z,10.748,-62.368,64,3,md,332.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-07-05T15:31:14.690Z,10.127,-62.302,8,3.2,md,300,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-07-05T16:03:10.180Z,10.236,-62.211,26,3.3,md,291.9,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-07-05T18:35:30.590Z,10.73,-63.306,5,4.2,mb,153.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,5
+2007-07-06T19:08:19.580Z,10.048,-72.462,174.6,4.6,mb,61.7,,0.84,"Zulia, Venezuela",Sismo,,4.8,,8
+2007-07-06T20:03:39.390Z,10.821,-62.377,46,3.1,md,269,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-07-07T18:53:00.490Z,10.431,-62.493,3,3.3,md,338.1,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-07-13T12:34:39.730Z,10.953,-62.806,4,3.3,md,327.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-07-16T01:32:18.900Z,10.632,-62.354,89,4.9,mb,36.4,,,"Sucre, Venezuela",Sismo,,,,69
+2007-07-16T22:58:23.390Z,7.182,-72.126,29.5,5.2,mwc,29,,0.78,"Apure, Venezuela",Sismo,,,,
+2007-07-18T16:22:45.780Z,11.063,-62.22,78,3.6,md,248.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-07-23T07:12:49.020Z,10.93,-62.505,106,3.9,md,280.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-07-23T22:10:28.790Z,11.07,-61.774,19,2.7,md,189,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-07-23T22:21:28.340Z,10.488,-62.442,7,3.2,md,284.5,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-07-23T22:40:01.240Z,10.225,-62.389,3,3,md,301.5,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-07-27T21:26:25.890Z,11.044,-61.947,63,2.9,md,223.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-07-28T05:41:45.380Z,11.149,-62.142,91,3.1,md,241.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-07-28T21:58:58.650Z,10.087,-62.281,3,3,md,304.8,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-07-29T01:22:03.620Z,11.053,-62.556,13,3.3,md,321.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-07-29T22:13:04.700Z,11.321,-61.855,70,3.2,md,202,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-08-02T20:47:22.020Z,10.709,-62.236,54,2.6,md,280.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-08-05T22:51:17.590Z,10.974,-62.342,72,3.5,md,258.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-08-06T05:12:51.450Z,10.87,-62.308,48,3.8,md,260.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-08-06T17:00:15.080Z,11.012,-61.846,104,3.5,md,239.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-08-07T17:40:42.260Z,10.552,-61.924,19.4,2.9,md,252.5,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-08-08T03:05:56.430Z,10.889,-62.283,71.8,3.7,md,260.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-08-14T10:51:10.090Z,10.814,-62.279,79,3.1,md,263.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-08-16T16:09:30.000Z,11.028,-62.283,102.1,3.6,md,207.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-08-19T03:19:13.000Z,11.361,-62.056,113,3.5,md,226.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-08-19T17:48:38.340Z,10.725,-62.432,68,3.1,md,287.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-08-23T20:17:39.500Z,11.087,-61.808,30.5,2.8,md,272.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-08-24T16:54:40.090Z,10.986,-62.187,106.5,3.3,md,250.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-08-25T17:53:54.730Z,10.461,-62.129,3.9,3.6,md,158.1,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-08-27T21:43:30.780Z,10.842,-62.028,97.2,3,md,257.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-08-30T12:57:16.520Z,10.404,-62.28,3,3.5,md,283.2,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-08-30T17:22:54.000Z,10.376,-70.293,5,4,mw,60.7,,,"Lara, Venezuela",Sismo,,,,
+2007-08-31T05:37:17.800Z,10.85,-62.049,100.4,3.4,md,268.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-09-05T06:06:40.900Z,10.667,-62.474,3,3.1,md,323.7,,,"Sucre, Venezuela",Sismo,,,,
+2007-09-05T13:32:30.390Z,10.963,-61.993,77.7,3,md,234.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-09-05T22:22:57.000Z,10.615,-68.563,2.6,4.2,mw,77.7,,,"Falcon, Venezuela",Sismo,,,,
+2007-09-08T03:46:20.370Z,10.688,-62.796,93,3.9,md,291.7,,,"Sucre, Venezuela",Sismo,,,,
+2007-09-09T01:49:48.870Z,10.91,-62.87,7,3.9,md,329.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-09-09T06:11:51.280Z,10.364,-62.259,3,3.8,md,289.8,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-09-09T06:13:24.450Z,10.475,-62.315,3,3.8,md,280,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-09-13T03:28:22.110Z,10.914,-62.324,79,2.9,md,328.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-09-14T10:25:35.800Z,10.173,-71.799,14,4,mw,75.5,,,"Lago de Maracaibo, Venezuela",Sismo,,,,
+2007-09-17T07:20:02.880Z,10.957,-62.211,65,3.2,md,253.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-09-18T06:49:14.410Z,10.611,-61.721,9,3.1,md,202.1,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2007-09-19T23:35:41.680Z,10.935,-62.253,70,3.6,md,257.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-09-20T03:41:43.750Z,10.849,-62.197,70,3.1,md,327.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-09-24T18:08:09.990Z,10.827,-62.213,77,3.2,md,257.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-09-25T03:09:57.310Z,10.714,-61.901,52,3.4,md,237.6,,,"Sucre, Venezuela",Sismo,,,,
+2007-09-27T02:09:20.530Z,10.647,-62.553,66,3.4,md,293,,,"Sucre, Venezuela",Sismo,,,,
+2007-09-29T10:38:57.620Z,10.622,-62.551,5,3.1,md,326.5,,,"Sucre, Venezuela",Sismo,,,,
+2007-10-03T05:33:44.390Z,11.211,-61.859,35,3,md,201.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-10-05T00:51:32.660Z,11.109,-61.859,38,2.9,md,234.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-10-11T00:36:53.880Z,10.717,-62.154,89,3.3,md,258.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-10-14T08:20:53.870Z,10.746,-62.378,96,3.4,md,268.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-10-16T11:58:45.900Z,10.762,-62.32,65.7,4,mw,49.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-10-20T02:34:12.600Z,8.39,-71.29,5,3.7,md,93.8,,,"Merida, Venezuela",Sismo,,,,
+2007-10-21T07:01:35.760Z,10.748,-62.306,64,3.4,md,266.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-10-24T02:32:16.220Z,10.327,-61.976,7,3.5,md,278.5,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-10-24T02:46:21.440Z,10.388,-61.858,7,3,md,266.3,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2007-10-24T04:47:00.010Z,10.337,-62.026,2,3.5,md,279.2,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-10-24T05:59:04.290Z,10.345,-61.924,1,3.4,md,274.7,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2007-10-27T02:03:07.330Z,10.71,-62.399,71,3.7,md,145.5,,,"Sucre, Venezuela",Sismo,,,,
+2007-10-28T07:15:23.070Z,10.917,-62.286,74,3.1,md,274.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-10-28T21:43:38.230Z,11.107,-62.113,83,3,md,241,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-10-28T23:42:21.940Z,11.247,-61.963,75,3.3,md,218.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-11-01T17:44:52.400Z,10.08,-64.35,12.6,4.3,mb,90.2,,,"Anzoategui, Venezuela",Sismo,,,,5
+2007-11-02T00:14:03.320Z,10.813,-61.896,47,3.1,md,231.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-11-02T18:15:11.610Z,10.427,-62.224,3,3,md,279.6,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-11-03T00:18:06.750Z,10.858,-62.342,56,3.1,md,265,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-11-04T13:24:32.430Z,11.211,-61.897,33,2.9,ml,208.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-11-10T05:19:25.650Z,11.121,-62.471,25,3.2,md,269,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-11-13T16:54:41.520Z,10.596,-62.264,93,3.1,md,271.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-11-14T10:17:43.790Z,10.859,-62.107,83,2.6,md,248.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-11-16T05:42:05.800Z,10.97,-62.123,79,3.3,md,246.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-11-18T04:01:31.630Z,10.846,-61.973,46,3,md,237.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-11-19T08:20:09.760Z,9.004,-63.479,21.9,4.3,md,107.1,,,"Anzoategui, Venezuela",Sismo,,,,
+2007-11-19T19:54:08.800Z,10.446,-62.222,3,3.1,md,278.3,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-11-19T21:44:43.380Z,11.149,-61.909,55,2.8,md,212.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-11-23T02:44:01.950Z,10.644,-62.427,100,3.1,md,277.8,,,"Sucre, Venezuela",Sismo,,,,
+2007-11-23T07:21:27.480Z,10.814,-62.233,73,2.9,md,260,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-12-04T05:48:33.400Z,10.364,-62.25,18.5,4,mw,133.4,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2007-12-10T04:02:46.000Z,10.77,-69.4,5,4.2,mb,84.9,,,"Falcon, Venezuela",Sismo,,,,1
+2007-12-11T03:30:24.760Z,10.646,-61.753,46,2.7,md,222.3,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2007-12-12T20:31:31.100Z,10.656,-62.4,75.8,4.9,mwc,23.4,,,"Sucre, Venezuela",Sismo,,,,
+2007-12-26T05:59:52.400Z,10.762,-65.68,5.9,4.6,mw,30.3,,,"Costa Afuera de Miranda, Venezuela",Sismo,,,,
+2007-12-26T11:33:49.470Z,10.889,-62.455,108,3.5,md,64.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-12-27T10:27:04.820Z,10.691,-62.441,88,2.9,md,289,,,"Sucre, Venezuela",Sismo,,,,
+2007-12-27T10:31:33.600Z,10.847,-61.865,52,2.9,md,225.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-12-27T15:51:35.050Z,10.784,-62.502,104,3.5,md,272.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-12-27T23:55:40.700Z,8.285,-71.226,1.1,3.7,mw,149,,,"Merida, Venezuela",Sismo,,,,
+2007-12-28T07:33:30.470Z,11.054,-62.12,66,3.4,md,225.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2007-12-29T05:18:51.000Z,10.594,-61.564,33,3.2,md,102.3,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2007-12-31T18:33:32.700Z,10.002,-62.232,3,3.2,md,322.9,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-01-02T02:07:14.100Z,10.836,-62.282,80,2.9,md,260.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-01-04T09:18:41.520Z,10.359,-62.05,26,2.9,md,307,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-01-06T02:31:56.500Z,9.77,-62.36,26.4,3.7,mw,201.4,,,"Monagas, Venezuela",Sismo,,,,
+2008-01-08T15:17:03.510Z,10.481,-62.21,1,3.5,md,275.6,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-01-10T04:19:33.510Z,11.223,-62.092,114,2.8,md,234.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-01-11T09:05:20.130Z,10.951,-62.191,74,3.5,md,250.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-01-12T14:14:59.880Z,10.265,-62.331,3,4,md,163.8,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-01-16T23:47:31.600Z,9.724,-72.649,168.5,4.7,mw,26.2,,,"Zulia, Venezuela",Sismo,,,,
+2008-01-18T14:58:27.390Z,11.083,-62.071,58,3.2,md,239.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-01-19T00:36:14.290Z,10.217,-62.16,3,3.2,md,318.1,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-01-25T01:20:17.260Z,10.688,-62.289,63,3.3,md,317.4,,,"Sucre, Venezuela",Sismo,,,,
+2008-01-25T02:52:10.710Z,10.365,-61.973,23,3,md,298,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-01-28T09:11:01.320Z,10.62,-61.834,6,3.1,md,237.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-01-29T04:28:13.500Z,10.233,-71.855,29.6,4.2,mw,25.7,,,"Zulia, Venezuela",Sismo,,,,
+2008-01-30T16:06:44.720Z,10.553,-61.874,12,3.2,md,248.1,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-01-31T03:28:53.910Z,10.786,-62.401,107,3.4,md,284.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-02-02T09:45:21.890Z,10.699,-61.773,39,3,md,224.2,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2008-02-03T01:27:32.630Z,10.324,-62.163,3,3,md,284.6,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-02-06T10:14:54.120Z,11.155,-62.029,115,3.1,md,230.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-02-09T20:23:33.220Z,10.216,-61.833,20,3.1,md,242.6,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2008-02-11T09:44:59.240Z,10.863,-62.395,75,3.3,md,268.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-02-12T08:56:39.110Z,11.065,-62.296,109,3.4,md,145.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-02-13T20:06:40.690Z,10.32,-62.256,6,4.8,mw,50.5,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-02-13T22:41:31.510Z,10.434,-62.385,3,3.2,md,285.3,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-02-14T05:30:44.910Z,10.394,-62.194,3,3.4,md,280.6,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-02-14T06:25:46.120Z,10.95,-63.075,1,3.6,md,348.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-02-14T10:53:43.170Z,10.257,-62.241,8,2.9,md,291.1,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-02-15T02:47:31.430Z,10.382,-61.925,6,3.2,md,290.5,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-02-19T04:45:15.550Z,9.395,-62.008,49,3.8,md,326.5,,,"Delta Amacuro, Venezuela",Sismo,,,,
+2008-02-21T18:46:31.550Z,10.883,-62.281,70,3.6,md,240.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-02-22T15:18:49.680Z,10.95,-62.013,33,3,md,304.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-02-25T07:59:50.890Z,10.157,-70.904,15.4,5,mwc,31.1,,0.99,"Zulia, Venezuela",Sismo,,,,
+2008-02-25T10:52:11.400Z,10.178,-70.925,9.2,4.4,mw,101.1,,,"Zulia, Venezuela",Sismo,,,,
+2008-02-28T04:48:38.650Z,10.661,-62.602,72,3.7,md,284,,,"Sucre, Venezuela",Sismo,,,,
+2008-02-29T05:48:36.140Z,10.756,-62.148,91,3,md,309.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-02-29T22:40:27.350Z,10.415,-62.349,6,2.9,md,327.3,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-03-06T13:48:26.130Z,10.494,-61.934,25,2.9,md,258.9,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-03-07T02:51:10.640Z,10.411,-62.144,18,2.9,md,315.8,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-03-08T20:58:35.100Z,10.916,-62.29,100,3.6,md,64.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-03-09T02:22:20.760Z,10.977,-61.982,100,3,md,233.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-03-09T22:17:09.310Z,10.639,-62.573,83.3,4.5,mb,61,,0.91,"Sucre, Venezuela",Sismo,,4.5,,2
+2008-03-11T02:32:18.750Z,11.046,-62.205,73,3.1,md,266.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-03-20T15:28:18.960Z,10.435,-62.389,20.8,4.7,mb,88.3,,1.18,"Golfo de Paria, Venezuela",Sismo,,17.1,,18
+2008-03-24T13:30:18.970Z,10.902,-62.462,103.9,4.6,mb,200,,1.26,"Costa Afuera de Sucre, Venezuela",Sismo,,9.6,,1
+2008-04-02T00:09:24.780Z,11.025,-62.228,95,3.4,md,253.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-04-03T00:04:56.670Z,10.915,-62.213,72,3.3,md,255.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-04-03T19:07:55.890Z,12.231,-69.971,10.8,4,md,55,,0.74,"Costa Afuera de Falcon, Venezuela",Sismo,,16.5,,
+2008-04-09T23:29:35.470Z,10.822,-62.207,72,3.3,md,256.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-04-12T04:50:11.700Z,10.22,-62.029,3,3,md,293.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-04-12T07:52:17.410Z,11.041,-61.892,74,2.9,md,213.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-04-13T10:09:01.720Z,10.995,-62.194,108,3.3,md,222.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-04-16T03:51:53.000Z,11.381,-69.552,15.9,4.1,mw,57.6,,,"Falcon, Venezuela",Sismo,,,,
+2008-04-18T02:21:35.220Z,10.292,-62.071,29,2.9,md,310.2,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-04-19T00:02:12.100Z,8.943,-61.507,82,4.1,md,159.8,,,"Delta Amacuro, Venezuela",Sismo,,,,
+2008-04-19T18:51:34.340Z,11.265,-61.919,115,3.2,md,235.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-04-21T22:39:56.040Z,10.789,-62.224,83,3.4,md,260.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-04-27T04:25:25.400Z,10.098,-69.536,2.7,4.2,mw,67.5,,,"Lara, Venezuela",Sismo,,,,
+2008-05-05T03:10:27.150Z,10.428,-62.22,3,3,md,291,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-05-05T22:08:44.240Z,10.327,-62.266,3,3.2,md,287.4,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-05-06T08:03:08.280Z,10.966,-62.308,91,3,md,260.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-05-10T00:46:43.570Z,10.465,-62.143,3,3.6,md,247.3,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-05-14T03:01:56.170Z,11.039,-61.922,56,2.9,md,219,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-05-15T17:17:14.900Z,10.811,-62.031,89,2.8,md,270.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-05-17T09:10:51.580Z,10.945,-62.161,90,3.9,md,44.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-05-17T14:42:47.200Z,10.614,-62.157,39,3,md,280.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-05-18T18:32:12.610Z,10.961,-62.352,60,2.7,md,263.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-05-19T13:05:39.490Z,10.393,-62.222,3,3.2,md,281.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-05-21T09:39:18.350Z,10.504,-61.734,19.1,2.8,md,230.8,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2008-05-24T14:12:51.820Z,10.993,-62.146,88.7,3.3,md,246.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-05-25T00:08:06.360Z,10.848,-62.511,99.4,3.1,md,275.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-05-29T06:09:10.940Z,10.733,-62.41,75.4,3.6,md,270.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-05-29T18:33:00.680Z,10.928,-62.241,91.3,4,md,92.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-06-01T01:58:33.620Z,10.886,-62.036,95.2,3.6,md,241.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-06-07T22:21:18.040Z,10.932,-62.081,73.8,3,md,244,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-06-09T11:01:47.600Z,9.363,-63.196,16.9,4.1,mw,71.3,,,"Monagas, Venezuela",Sismo,,,,
+2008-06-11T13:31:18.870Z,10.521,-62.438,1.2,3.1,md,293.6,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-06-13T05:21:51.550Z,10.844,-62.259,67.2,3.5,md,258.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-06-16T00:36:32.290Z,10.839,-62.138,78.8,2.7,md,269.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-06-27T05:08:11.640Z,11.148,-62.413,147.6,5.2,mwc,35.8,,0.99,"Costa Afuera de Sucre, Venezuela",Sismo,,2.2,,
+2008-07-03T21:17:20.080Z,10.393,-62.232,12,3.4,md,282.1,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-07-04T17:28:44.520Z,10.502,-62.182,5,3.4,md,319.4,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-07-07T23:05:58.700Z,10.764,-61.797,45,2.5,md,218.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-07-09T03:55:15.520Z,10.351,-62.226,5,3.1,md,321,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-07-09T18:50:20.430Z,10.955,-62.262,87,3.5,md,255.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-07-10T05:06:24.960Z,10.817,-62.003,45,2.8,md,333.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-07-16T23:59:46.900Z,10.91,-62.2,21.1,3.6,md,252.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-07-18T09:22:29.990Z,10.117,-61.837,26,3,md,274.4,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2008-07-20T09:57:55.660Z,10.777,-62.288,79,4,md,262.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-07-21T19:28:45.860Z,10.881,-62.034,92,2.9,md,252.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-07-22T18:58:41.980Z,10.472,-61.769,34,3.2,md,247.8,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2008-07-25T03:52:33.570Z,11.027,-62.454,72,3.2,md,344.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-07-27T21:42:10.300Z,10.46,-62.64,1.9,3.5,md,79.8,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-07-28T09:42:26.450Z,11.045,-62.137,86,3.1,md,256,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-07-29T23:20:43.900Z,10.77,-62.35,81.4,3.8,md,265.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-07-30T09:24:01.960Z,10.608,-62.203,10,3.2,md,267.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-07-30T20:59:17.870Z,10.404,-61.647,88,2.7,md,226.2,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2008-08-01T10:00:31.110Z,10.968,-62.317,80,2.9,md,314.5,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-08-05T07:51:32.540Z,10.653,-61.777,46,2.9,md,252.2,,,"Golfo de Paria, Trinidad y Tobago",Sismo,,,,
+2008-08-08T22:47:42.830Z,10.42,-62.167,3,2.7,md,277.8,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-08-09T19:09:10.640Z,10.956,-62.225,74,3.1,md,255,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-08-10T08:29:40.080Z,10.601,-62.13,3,2.9,md,263.6,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-08-10T09:56:52.400Z,10.478,-62.235,3,3.1,md,276.9,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-08-11T07:19:26.400Z,10.514,-64.171,13.1,5.2,mwc,20.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-08-13T08:15:43.070Z,10.912,-62.251,68,2.8,md,271.4,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-08-14T15:23:53.530Z,10.387,-62.465,3,3.2,md,298.2,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-08-16T06:18:53.430Z,11.023,-62.102,62,2.8,md,243.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-08-17T23:58:33.600Z,10.235,-69.676,5,4.6,mw,71.6,,,"Lara, Venezuela",Sismo,,,,
+2008-08-20T07:38:48.900Z,10.888,-62.182,73,3,md,267.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-08-22T13:07:24.990Z,10.718,-61.828,52,2.6,md,259.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-08-24T12:57:22.810Z,11.296,-61.847,131,3.3,md,200.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-08-28T18:03:31.100Z,10.977,-62.34,64,2.8,md,273.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-08-31T20:00:05.100Z,10.456,-62.262,85,3.1,md,301.9,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2008-10-02T15:11:06.490Z,7.635,-71.887,10,4.8,mb,92.5,,1.13,"Tachira, Venezuela",Sismo,,,,1
+2008-10-19T19:42:34.200Z,10.733,-62.246,79.2,4.3,mw,45.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2008-11-11T14:31:03.900Z,8.202,-59.086,10,4.6,mw,77,,1.04,"Costa Afuera de Esequibo, Venezuela",Sismo,,0,,
+2008-11-28T04:18:40.390Z,10.867,-62.342,90.4,4.1,mb,44.5,,1.11,"Costa Afuera de Sucre, Venezuela",Sismo,,4,,14
+2008-12-20T21:20:29.200Z,12.892,-70.536,3.1,4.1,mw,110.7,,,"Costa Afuera de Falcon, Venezuela",Sismo,,,,
+2009-01-03T17:13:08.280Z,10.023,-62.042,99.1,4.1,mb,118.9,,1.44,"Golfo de Paria, Venezuela",Sismo,,18.1,,1
+2009-02-13T21:22:00.000Z,10.98,-62,22,3.6,md,230.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2009-03-25T01:42:12.000Z,10.786,-62.255,82.3,4.3,mw,17.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2009-03-28T13:10:16.400Z,10.306,-62.46,3.8,4.5,mw,59.1,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2009-04-05T20:24:13.550Z,10.757,-66.839,10,4.3,mw,94.9,,1.3,"Costa Afuera de Vargas, Venezuela",Sismo,,,,
+2009-04-06T00:26:43.100Z,10.77,-69.72,1.5,4,mw,62.1,,,"Falcon, Venezuela",Sismo,,,,
+2009-04-06T04:51:37.300Z,10.8,-67.9,1,4.4,mw,28.4,,,"Costa Afuera de Aragua, Venezuela",Sismo,,,,
+2009-05-04T09:10:20.900Z,10.2,-67.01,6.1,5.5,mwb,47.6,,,"Miranda, Venezuela",Sismo,,,,
+2009-05-04T09:27:19.800Z,10.24,-67.08,3.5,4,mw,169.3,,,"Miranda, Venezuela",Sismo,,,,
+2009-05-14T16:48:28.300Z,8.96,-60.53,35.1,3.8,mw,193.4,,,"Delta Amacuro, Venezuela",Sismo,,,,
+2009-07-21T07:54:19.920Z,7.305,-72.999,143.5,4.4,mb,43,,0.81,Frontera Colombia-Venezuela,Sismo,,,,70
+2009-07-21T10:10:46.500Z,8.688,-70.252,1.5,4.6,mw,40.7,,,"Barinas, Venezuela",Sismo,,,,
+2009-07-23T19:55:53.200Z,11.575,-70.458,29,4.6,mw,22.6,,,Golfo de Venezuela,Sismo,,,,
+2009-09-12T20:06:25.470Z,10.709,-67.927,14,6.4,mwc,18.3,,1.24,"Costa Afuera de Carabobo, Venezuela",Sismo,,,,
+2009-09-19T23:10:02.080Z,10.707,-62.607,92,4.8,mb,53.8,,0.72,"Sucre, Venezuela",Sismo,,,,32
+2009-09-28T01:20:27.500Z,11.4,-69.65,27,4.3,mw,47.4,,,"Falcon, Venezuela",Sismo,,,,
+2009-11-14T12:56:15.700Z,10.706,-62.499,97,4.2,mw,55,,,"Sucre, Venezuela",Sismo,,,,
+2009-11-16T11:57:39.700Z,7.99,-71.858,5,4,mw,108.2,,,"Tachira, Venezuela",Sismo,,,,
+2009-11-27T08:15:53.360Z,10.434,-69.715,7,5.4,mwb,24.1,,1,"Lara, Venezuela",Sismo,,,,
+2009-12-22T12:05:12.500Z,10.462,-69.779,5,4,mw,54.6,,,"Lara, Venezuela",Sismo,,,,
+2009-12-31T10:50:32.400Z,9.682,-70.02,5,4.4,mw,80.6,,,"Lara, Venezuela",Sismo,,,,
+2010-01-05T03:36:16.400Z,10.86,-62.43,105.5,4.8,mb,20.7,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,56
+2010-01-08T09:21:16.700Z,10.45,-69.77,5,4.7,mw,89.3,,,"Lara, Venezuela",Sismo,,,,
+2010-01-08T09:31:35.600Z,10.44,-69.74,5,4.8,mw,26,,,"Lara, Venezuela",Sismo,,,,
+2010-01-13T08:14:49.100Z,12.209,-70.018,12.2,4.2,mw,50.2,,,"Costa Afuera de Falcon, Venezuela",Sismo,,,,
+2010-01-15T18:00:46.700Z,10.454,-63.475,8.1,5.6,mwc,22.5,,1.13,"Sucre, Venezuela",Sismo,,5.6,,
+2010-02-01T11:06:28.930Z,8.945,-71.005,29,4.6,mb,37.2,,0.78,"Merida, Venezuela",Sismo,,6,,33
+2010-02-13T06:04:07.400Z,10.594,-62.419,79.5,4.3,mw,100.8,,,"Sucre, Venezuela",Sismo,,,,
+2010-03-05T21:46:47.800Z,10.88,-63.81,9.9,4,mw,193,,,Costa Afuera Venezuela,Sismo,,,,
+2010-04-21T19:29:28.880Z,10.341,-62.259,7,4.6,mw,45.4,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2010-04-30T19:18:59.400Z,10.98,-63.78,5,3.7,mw,81,,,Costa Afuera Venezuela,Sismo,,,,
+2010-05-02T21:21:51.200Z,10.91,-62.17,92.4,4.6,mw,22.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2010-05-21T02:42:46.300Z,10.97,-62.25,78.9,3.7,mw,119.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2010-07-06T13:47:49.640Z,10.358,-62.448,49.5,5,mw,45.8,,0.95,"Golfo de Paria, Venezuela",Sismo,,4.1,,
+2010-07-13T10:33:15.800Z,10.612,-62.468,83.3,4,mw,222.8,,,"Sucre, Venezuela",Sismo,,,,
+2010-07-25T13:50:13.700Z,10.849,-70.482,5,4.1,mw,88.8,,,"Falcon, Venezuela",Sismo,,,,
+2010-08-02T19:32:11.540Z,11.163,-69.319,16.5,4,mb,67,,1.14,"Falcon, Venezuela",Sismo,,16.9,,1
+2010-08-13T23:50:37.300Z,9.57,-62.71,23.8,4.4,mw,54.4,,,"Monagas, Venezuela",Sismo,,,,
+2010-08-14T08:40:40.690Z,11.291,-62.398,136.9,5.2,mwc,24.8,,1.09,"Costa Afuera de Sucre, Venezuela",Sismo,,2.3,,
+2010-09-17T14:25:25.280Z,10.231,-62.287,10,3.8,mw,73.2,,1.18,"Golfo de Paria, Venezuela",Sismo,,,,
+2010-09-22T19:50:45.200Z,10.421,-62.1,14,3.8,mw,131.6,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2010-10-17T09:59:29.700Z,11.304,-70.386,11.7,4,mw,134.1,,,"Falcon, Venezuela",Sismo,,,,
+2010-11-26T10:26:02.000Z,8.608,-71.379,5,4,mw,101.3,,,"Merida, Venezuela",Sismo,,,,
+2010-11-27T01:14:49.700Z,9.905,-69.669,5,4.2,mw,34.7,,,"Lara, Venezuela",Sismo,,,,
+2010-11-29T02:13:40.850Z,10.858,-62.207,105,4.1,md,265.2,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2011-02-04T12:16:54.840Z,11.322,-62.146,149.1,5.2,mwc,14.4,,1.08,"Costa Afuera de Sucre, Venezuela",Sismo,,1.8,,
+2011-03-01T04:44:40.980Z,11.265,-62.054,126,4.3,mw,69.3,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2011-03-12T09:26:40.800Z,12.077,-69.893,17.3,4.1,mw,94.6,,,"Falcon, Venezuela",Sismo,,,,
+2011-05-16T22:18:24.120Z,10.779,-62.285,102,4.7,mb,29.9,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,6
+2011-05-26T22:50:25.400Z,10.666,-64.779,10.7,4,mw,257.7,,,"Costa Afuera de Anzoategui, Venezuela",Sismo,,,,
+2011-07-14T06:35:31.270Z,11.23,-61.839,65,4.3,mb,70,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,1
+2011-09-08T10:30:49.370Z,10.352,-62.72,64.5,4.4,mw,80.4,,1.29,"Sucre, Venezuela",Sismo,,7.4,,
+2011-10-02T17:27:06.000Z,11.74,-69.56,19,4.1,mw,47.3,,,"Costa Afuera de Falcon, Venezuela",Sismo,,,,
+2011-10-05T20:20:53.450Z,7.433,-71.849,25.4,4.7,mb,54.3,,1.08,"Apure, Venezuela",Sismo,,10.6,,24
+2011-10-11T23:45:39.600Z,10.375,-62.306,3,4.1,md,88.8,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2011-10-12T09:57:03.700Z,10.556,-62.071,3,4,md,262.9,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2011-11-06T19:00:04.200Z,11.86,-65.36,34.9,4,mw,61.1,,,Mar Caribe,Sismo,,,,
+2011-11-12T12:52:02.200Z,10.743,-62.502,81.6,4.9,mwc,32.7,,0.93,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2011-11-12T20:01:42.590Z,10.622,-62.396,41.2,4,mw,144.8,,1.07,"Sucre, Venezuela",Sismo,,7.4,,
+2011-12-05T18:15:55.700Z,10.307,-62.329,3,4,md,290.3,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2012-01-28T01:02:47.900Z,11.309,-61.786,21.9,3.8,md,183.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2012-02-11T00:12:19.900Z,10.69,-62.49,82.9,4.3,mw,74.1,,,"Sucre, Venezuela",Sismo,,,,
+2012-02-11T05:56:35.700Z,10.72,-62.31,86.7,4.2,mw,43.6,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2012-02-13T09:41:26.500Z,9.501,-64.121,3,4.4,md,192.5,,,"Anzoategui, Venezuela",Sismo,,,,
+2012-02-27T00:11:06.700Z,10.56,-63.62,5.8,4.3,mw,65.6,,,"Sucre, Venezuela",Sismo,,,,
+2012-03-14T07:29:40.750Z,9.38,-70.11,5,4,mw,98.1,,,"Trujillo, Venezuela",Sismo,,,,
+2012-03-25T23:59:44.700Z,10.17,-67.89,5,3.7,mw,342.7,,,"Carabobo, Venezuela",Sismo,,,,
+2012-03-31T09:14:38.300Z,10.431,-62.944,73.2,4.2,md,271.2,,,"Sucre, Venezuela",Sismo,,,,
+2012-03-31T09:47:25.100Z,10.54,-63.2,3.1,4.4,mw,67.9,,,"Sucre, Venezuela",Sismo,,,,
+2012-05-17T00:52:21.000Z,10.63,-62.58,78.6,4.4,mw,58.6,,,"Sucre, Venezuela",Sismo,,,,
+2012-07-27T16:15:49.000Z,9.22,-69.67,5,4.2,mw,56,,,"Portuguesa, Venezuela",Sismo,,,,
+2012-08-21T16:40:54.670Z,11.806,-66.432,62.5,4.5,mw,46.8,,0.94,Mar Caribe,Sismo,,,,
+2012-08-29T05:07:07.320Z,8.67,-71.217,24.8,3.8,mw,65.6,,1.12,"Merida, Venezuela",Sismo,,12.6,,
+2012-09-02T23:12:30.700Z,10.668,-62.539,98.7,4,md,258,,,"Sucre, Venezuela",Sismo,,,,
+2012-09-10T23:33:56.100Z,10.83,-62.17,89.7,3.7,mw,180.1,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2012-09-13T00:22:28.800Z,10.28,-62.21,7.6,4.8,mw,49.9,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2012-09-29T05:26:11.360Z,7.132,-71.935,35,4.5,mb,29.1,,1.04,"Apure, Venezuela",Sismo,,,,83
+2012-10-08T23:02:19.500Z,10.903,-61.836,40.9,3.7,mw,198.8,,,"Costa Afuera de Sucre, Venezuela",Sismo,,,,
+2012-10-12T12:16:18.840Z,10.508,-62.811,10,4.8,mw,33,,1.32,"Golfo de Paria, Venezuela",Sismo,,,,
+2012-11-03T11:50:57.000Z,10.2,-67.89,5,3.1,mw,225.2,,,"Carabobo, Venezuela",Sismo,,,,
+2012-11-07T18:31:17.100Z,11.27,-70.02,5,4.3,mb,58,,,"Falcon, Venezuela",Sismo,,,,4
+2012-11-12T12:08:12.190Z,10.587,-61.906,71.4,4.2,mw,49.2,,0.85,"Golfo de Paria, Venezuela",Sismo,,3.1,,
+2012-11-17T03:51:14.400Z,10.08,-63.01,8.2,4.1,mw,70.7,,,"Monagas, Venezuela",Sismo,,,,
+2012-12-19T19:28:51.900Z,10.693,-62.309,70.6,4,md,256.6,,,"Sucre, Venezuela",Sismo,,,,
+2013-01-04T07:56:01.750Z,10.767,-69.373,20.7,4.7,mw,74.7,,1.04,"Falcon, Venezuela",Sismo,,3.7,,
+2013-01-12T20:17:12.590Z,8.396,-71.591,11.2,4.2,mw,58.1,,0.75,"Merida, Venezuela",Sismo,,7.4,,
+2013-01-22T10:47:34.700Z,10.345,-61.989,7.3,4,md,132.7,,,"Golfo de Paria, Venezuela",Sismo,,,,
+2013-02-02T05:10:03.600Z,10.856,-62.193,111.7,3.9,mw,75.6,,0.81,"16km N de Guiria, Venezuela",Sismo,,3,,
+2013-02-10T05:27:09.260Z,11.096,-62.05,81.8,4.8,mw,21.5,,1.04,"65km NNE de Guiria, Venezuela",Sismo,,2.6,,
+2013-02-18T13:13:47.670Z,9.171,-69.75,10,4.6,mb,55.4,,1.01,"14km N de Guanare, Venezuela",Sismo,,,,7
+2013-03-04T13:23:50.950Z,10.703,-62.094,64.7,3.8,md,88.6,,0.97,"Sucre, Venezuela",Sismo,,6.5,,
+2013-03-08T23:43:41.590Z,10.92,-65.65,5.6,4,mw,100,,,"93km NE de Higuerote, Venezuela",Sismo,,,,
+2013-03-09T07:21:34.350Z,10.849,-62.253,113,4.8,mw,27.8,,0.98,"30km N de Guiria, Venezuela",Sismo,,2.4,,
+2013-03-31T12:16:24.330Z,10.83,-62.167,110.8,4,mw,121.4,,1.18,"31km NNE de Guiria, Venezuela",Sismo,,6.2,,
+2013-04-21T12:58:44.290Z,10.084,-69.193,20.5,4.1,mw,86,,1.14,"7km W de Yaritagua, Venezuela",Sismo,,12.1,,
+2013-05-09T11:38:58.420Z,10.329,-62.452,41.3,4.4,mb,138,,0.58,"30km SSE de Irapa, Venezuela",Sismo,,10.5,,19
+2013-07-05T00:53:14.510Z,8.818,-70.849,4.9,4.6,mb,54,,0.5,"11km NE de Mucuchies, Venezuela",Sismo,,1.8,,92
+2013-08-06T14:56:21.600Z,10.791,-62.167,52.4,4,mwr,,,1.11,"27km NNE de Guiria, Venezuela",Sismo,,9,,
+2013-08-08T14:45:28.760Z,10.6919,-62.3593,88.38,4.4,mb,55,0.94,0.91,"14km NNW de Guiria, Venezuela",Sismo,,10.4,0.084,
+2013-09-17T21:59:49.770Z,10.5098,-63.1855,22.86,4.4,mb,83,1.465,0.94,"4km SW de El Pilar, Venezuela",Sismo,,5.1,0.126,
+2013-10-12T02:10:27.290Z,10.9048,-62.315,63,6,mww,29,1.381,1.06,"36km N de Guiria, Venezuela",Sismo,,1.7,,
+2013-10-12T03:52:26.130Z,10.7321,-62.2545,35.04,4,mb,97,1.511,0.56,"17km NNE de Guiria, Venezuela",Sismo,,5.4,0.517,
+2013-10-16T11:19:00.000Z,10.89,-62.21,64,3.9,md,,,0.92,"35km NNE de Guiria, Venezuela",Sismo,,9.4,,
+2013-11-26T16:22:24.110Z,10.821,-62.3558,101.55,4.7,mb,73,1.31,1.53,"27km NNW de Guiria, Venezuela",Sismo,,3.1,0.104,
+2013-11-27T19:51:58.210Z,8.9516,-70.9461,13.75,4.1,mwr,75,0.315,0.99,"11km SE de Torondoy, Venezuela",Sismo,,5,,
+2013-12-28T09:17:17.190Z,10.576,-62.5479,87.4,4.8,mb,30,0.932,0.89,"3km E de Irapa, Venezuela",Sismo,,6.5,0.039,
+2014-01-11T21:00:09.000Z,11.343,-62.15,124.6,4.1,mb,,,0.82,"86km N de Guiria, Venezuela",Sismo,,5.5,0.261,4
+2014-01-19T09:25:22.940Z,10.2644,-62.558,35.05,4.5,mb,65,2.002,1.04,"33km S de Irapa, Venezuela",Sismo,,6.9,0.067,67
+2014-02-09T06:02:29.790Z,9.9241,-71.5981,30.6,4.1,mwr,50,1.404,1.28,"43km WSW de Lagunillas, Venezuela",Sismo,,4.4,,
+2014-02-19T11:10:12.470Z,9.6143,-69.667,10,5.3,mww,26,1.191,0.8,"15km S de Sanare, Venezuela",Sismo,,1.7,,12
+2014-02-20T22:28:09.590Z,9.5716,-69.7056,12.89,4,mb,63,1.135,1.2,"20km SSW de Sanare, Venezuela",Sismo,,2.7,0.183,10
+2014-02-22T19:11:10.670Z,10.7731,-62.6025,108.83,4.2,mb,101,1.639,1.04,"22km N de Irapa, Venezuela",Sismo,,6.8,0.235,5
+2014-03-04T02:07:45.030Z,8.8226,-71.2616,31.63,3.2,ml,128,0.623,0.62,"16km S de Tucani, Venezuela",Sismo,,10.8,0.181,4
+2014-03-09T19:11:14.800Z,9.1845,-61.3464,55.56,4.3,mb,91,2.247,1.47,"76km NNW de Curiapo, Venezuela",Sismo,,10.1,0.217,6
+2014-06-01T03:51:32.000Z,10.14,-67.92,5,3.4,mwr,,,1.08,"4km SSE de Los Guayos, Venezuela",Sismo,,4.2,,
+2014-07-28T12:44:43.010Z,10.6052,-62.876,32.7,4,mb,72,1.742,1.08,"6km NW de Yaguaraparo, Venezuela",Sismo,,7.2,0.367,3
+2014-08-14T00:12:55.340Z,10.8999,-68.9828,13.68,4.2,mb,98,1.272,0.47,"23km SW de Jacura, Venezuela",Sismo,,6.2,0.236,8
+2014-08-16T12:39:03.500Z,10.49,-67.66,7.7,4,mwr,,,1.1,"12km ENE de Ocumare de la Costa, Venezuela",Sismo,,0.9,,
+2014-09-01T11:34:42.490Z,10.4008,-63.6162,10,4.6,mb,34,0.986,0.79,"12km SSW de Cariaco, Venezuela",Sismo,5.8,1.8,0.062,83
+2014-09-02T22:21:59.530Z,10.8474,-69.4849,3.68,4.6,mwr,25,1.726,0.81,"6km ENE de Churuguara, Venezuela",Sismo,5.8,3.5,,
+2014-09-11T22:05:03.700Z,10.4751,-72.5035,10,4.5,mb,50,2.428,1.43,"26km NW de La Villa del Rosario, Venezuela",Sismo,4.9,1.9,0.157,14
+2014-10-02T09:48:12.800Z,10.55,-63.38,14.3,4.3,mwr,,,0.86,"6km NE de Casanay, Venezuela",Sismo,5.8,2.9,,
+2014-11-16T05:06:02.140Z,10.264,-69.3613,21.07,4.5,mb,71,1.852,0.79,"21km NNW de Barquisimeto, Venezuela",Sismo,6.1,3,0.15,14
+2014-12-08T01:36:59.130Z,10.8446,-62.5209,88.79,4.4,mb,92,1.536,0.94,"31km NNE de Irapa, Venezuela",Sismo,7.9,7.5,0.071,62
+2014-12-09T13:35:43.530Z,9.8756,-72.2549,198.39,4.4,mb,36,1.878,0.74,"38km ESE de Machiques, Venezuela",Sismo,8.4,6.7,0.041,194
+2014-12-24T02:19:51.700Z,9.2618,-61.3167,30.71,4.1,mwr,82,2.165,1.38,"83km ENE de Tucupita, Venezuela",Sismo,8,6.8,,
+2015-01-10T05:17:30.200Z,10.361,-62.473,19.6,4,mwr,,,1.4,"25km SSE de Irapa, Venezuela",Sismo,6.7,5.1,,
+2015-02-04T10:59:28.750Z,10.6804,-62.8349,110.51,5.1,mb,62,1.801,0.64,"12km N de Yaguaraparo, Venezuela",Sismo,6.2,5.4,0.027,491
+2015-02-04T12:53:06.500Z,10.64,-62.89,5,4.4,mb,,,1.18,"10km NW de Yaguaraparo, Venezuela",Sismo,6.3,4.9,0.127,21
+2015-02-05T04:21:50.900Z,8.24,-72.14,5,5.3,mww,,,1.07,"8km WSW de Umuquena, Venezuela",Sismo,5.6,3.2,,
+2015-02-05T05:38:57.800Z,8.2948,-72.1265,10,4.6,mwr,32,1.587,0.8,"5km SW de Coloncito, Venezuela",Sismo,6.1,1.8,,
+2015-02-05T07:04:13.000Z,8.3,-72.15,5,4.3,mwr,,,1.2,"7km WSW de Coloncito, Venezuela",Sismo,7.3,4.4,,
+2015-02-05T21:50:56.620Z,11.0794,-62.05,81.67,4.6,mb,33,1.116,1.12,"61km NNE de Guiria, Venezuela",Sismo,6.5,5.9,0.044,157
+2015-02-26T00:10:49.500Z,8.23,-72.13,5,4.1,mwr,,,0.58,"8km WSW de Umuquena, Venezuela",Sismo,6.6,4.4,,
+2015-03-16T13:48:40.960Z,7.769,-71.9457,43.03,4,mwr,46,1.706,0.55,"16km S de San Jose de Bolivar, Venezuela",Sismo,7.5,6.4,,
+2015-03-22T13:09:39.520Z,10.6076,-62.6125,106.92,4,mb,76,1.178,0.94,"5km NW de Irapa, Venezuela",Sismo,5.1,7.8,0.26,4
+2015-03-27T15:58:42.100Z,11.1039,-62.376,97.2,4.2,mb,,,0.86,"58km N de Guiria, Venezuela",Sismo,6.8,7.6,0.304,3
+2015-04-16T02:24:16.130Z,10.8339,-62.4104,77.29,5.1,mb,32,1.488,0.58,"30km NNW de Guiria, Venezuela",Sismo,7.1,4.4,0.024,549
+2015-04-20T07:11:41.690Z,10.8604,-62.3624,89.78,4.7,mb,62,1.442,0.8,"32km NNW de Guiria, Venezuela",Sismo,6.3,6.8,0.042,175
+2015-06-26T01:14:53.750Z,10.2464,-62.3807,74.38,3.7,mb,107,2.005,0.59,"33km NNW de Pedernales, Venezuela",Sismo,11.8,16.2,0.504,1
+2015-06-26T01:15:08.970Z,10.2744,-62.2291,44.13,3.9,mwr,93,1.93,0.8,"33km N de Pedernales, Venezuela",Sismo,7.3,4,,
+2015-06-26T03:02:05.900Z,11.0536,-62.4171,115.81,4,mwr,69,1.307,0.96,"54km NNW de Guiria, Venezuela",Sismo,5.6,7.2,,
+2015-08-02T18:57:48.000Z,10.59,-62.4,31.8,4.1,mwr,,,1.54,"11km W de Guiria, Venezuela",Sismo,7.4,3,,
+2015-08-21T12:49:58.550Z,10.1507,-63.0149,10,4,mwr,74,2.379,1.03,"9km ENE de Caripito, Venezuela",Sismo,6.3,1.7,,
+2015-08-30T13:32:00.220Z,10.8936,-62.2469,89.49,4,mwr,88,1.361,1.31,"35km N de Guiria, Venezuela",Sismo,7.3,7.3,,
+2015-08-30T18:29:17.360Z,10.6428,-62.4945,101.17,4.1,mwr,86,1.694,0.99,"12km NE de Irapa, Venezuela",Sismo,9.1,7.6,,
+2015-09-10T07:49:36.350Z,11.1535,-62.4765,115.12,4.9,mww,66,1.263,0.87,"65km N de Irapa, Venezuela",Sismo,6,4.9,,
+2015-10-17T00:57:01.340Z,10.7556,-62.8778,10,4.7,mb,38,1.783,0.72,"21km NNW de Yaguaraparo, Venezuela",Sismo,4.4,1.5,0.039,204
+2015-11-07T06:58:30.300Z,8.4672,-71.3957,15.12,5.3,mww,34,0.859,0.56,"5km S de Lagunillas, Venezuela",Sismo,5.5,3.3,,
+2015-11-07T07:31:10.580Z,8.5982,-71.4399,9.24,4.3,mwr,20,0.845,0.66,"11km NNW de Lagunillas, Venezuela",Sismo,4.7,4.6,,
+2015-11-07T07:37:44.850Z,8.4665,-71.3919,3.58,4.3,mwr,173,0.856,0.57,"5km S de Lagunillas, Venezuela",Sismo,4,9.2,,
+2015-11-07T08:44:13.460Z,8.5013,-71.4056,5.09,4.2,mwr,40,0.852,1.36,"2km WSW de Lagunillas, Venezuela",Sismo,3,6.1,,
+2015-11-07T15:53:45.750Z,8.5663,-71.3353,5,4.5,mwr,38,0.761,0.89,"8km NE de Lagunillas, Venezuela",Sismo,5.5,1.9,,
+2015-11-07T17:37:47.990Z,8.5,-71.3982,12.37,4.9,mwr,38,0.846,0.71,"1km SW de Lagunillas, Venezuela",Sismo,4.9,3.6,,
+2015-11-07T23:43:44.890Z,8.5998,-71.3791,12.94,4,mwr,54,0.788,0.79,"9km N de Lagunillas, Venezuela",Sismo,3.3,7.6,,
+2015-11-07T23:50:28.300Z,8.6404,-71.4244,10.42,4.2,mwr,45,0.817,0.76,"8km SSE de La Azulita, Venezuela",Sismo,5.1,6.7,,
+2015-11-08T15:16:45.010Z,8.6445,-71.4553,10,4.4,mb,132,0.846,0.89,"7km S de La Azulita, Venezuela",Sismo,6.1,2,0.311,3
+2015-11-08T19:43:33.820Z,8.6268,-71.3976,10,4.1,mb,39,0.796,1.09,"10km SSE de La Azulita, Venezuela",Sismo,4.7,2,0.213,6
+2015-11-09T03:49:34.630Z,8.5309,-71.3527,9.59,3.7,mwr,40,0.792,0.92,"4km ENE de Lagunillas, Venezuela",Sismo,5.9,4.5,,
+2015-11-09T13:34:13.310Z,8.5819,-71.3624,11.11,4.1,mwr,38,0.78,0.84,"8km NNE de Lagunillas, Venezuela",Sismo,3.3,4.2,,
+2015-11-09T15:51:57.620Z,8.4695,-71.2623,15.34,4,mb,51,0.745,1.24,"8km SSW de Ejido, Venezuela",Sismo,6.6,6.4,0.298,3
+2015-11-09T17:48:44.440Z,8.5547,-71.3658,12.36,4.6,mb,37,0.794,0.93,"5km NNE de Lagunillas, Venezuela",Sismo,5.1,4.7,0.073,56
+2015-11-09T18:57:54.250Z,8.4795,-71.3612,10,4,mb,48,0.823,0.84,"4km SE de Lagunillas, Venezuela",Sismo,5.4,1.9,0.3,3
+2015-11-10T16:35:48.550Z,8.559,-71.3893,4.87,4.2,mwr,36,0.813,0.87,"5km N de Lagunillas, Venezuela",Sismo,5.2,4.5,,
+2015-11-10T19:23:59.090Z,8.5093,-71.4131,2.74,3.9,mwr,39,0.855,0.91,"2km W de Lagunillas, Venezuela",Sismo,5.3,4.1,,
+2015-11-14T11:24:32.200Z,8.5554,-71.3886,12.54,4.2,mb,53,0.814,0.5,"4km N de Lagunillas, Venezuela",Sismo,3.8,5.3,0.215,6
+2015-11-14T12:20:22.860Z,8.5222,-71.378,9.22,4.8,mwr,40,0.818,0.72,"1km NE de Lagunillas, Venezuela",Sismo,5.3,4.3,,
+2015-11-14T14:03:53.700Z,8.5856,-71.2943,10,4.3,mwr,40,0.716,0.83,"7km NW de Ejido, Venezuela",Sismo,5,1.7,,
+2015-11-20T17:53:11.580Z,8.6212,-71.3917,10,3.9,mwr,39,0.793,1.22,"11km N de Lagunillas, Venezuela",Sismo,5,1.9,,
+2015-11-20T18:00:04.410Z,8.5039,-71.3647,10,4.8,mwr,34,0.815,0.76,"2km ESE de Lagunillas, Venezuela",Sismo,2.7,1.8,,
+2015-11-20T23:05:54.150Z,8.5216,-71.3715,7.66,4.2,mwr,36,0.813,0.84,"2km ENE de Lagunillas, Venezuela",Sismo,3.9,4.5,,
+2015-11-22T20:38:31.430Z,8.5217,-71.3869,10,5.1,mwr,34,0.826,1.06,"0km N de Lagunillas, Venezuela",Sismo,5.9,1.8,,
+2015-11-23T20:15:41.560Z,8.6211,-71.4133,10,4.2,mwr,50,0.813,0.84,"10km SSE de La Azulita, Venezuela",Sismo,5.5,1.9,,
+2015-11-30T04:28:16.580Z,10.5937,-62.5428,75.71,3.7,mwr,62,1.76,1.17,"4km ENE de Irapa, Venezuela",Sismo,6,8,,
+2015-11-30T11:50:32.530Z,10.4605,-63.6281,10,4.2,mwr,70,2.551,1.22,"9km WSW de Cariaco, Venezuela",Sismo,6.4,1.9,,
+2015-12-05T06:04:48.990Z,8.5889,-71.373,10,3.9,mwr,42,0.787,1.14,"8km N de Lagunillas, Venezuela",Sismo,5.4,1.9,,
+2015-12-09T09:49:02.570Z,8.6255,-71.3945,10,4.4,mb,39,0.794,0.81,"11km SSE de La Azulita, Venezuela",Sismo,4.3,1.4,0.13,17
+2016-01-04T14:59:11.690Z,9.6102,-70.7754,18.4,4.5,mb,46,0.735,1.14,"4km SE de Santa Isabel, Venezuela",Sismo,5.4,4.6,0.07,60
+2016-01-05T14:33:40.800Z,10.9869,-61.9988,107.1,4.7,mb,81,1.187,1.01,"55km NE de Guiria, Venezuela",Sismo,6.7,5.5,0.04,187
+2016-01-13T02:12:10.170Z,10.8561,-62.252,89.43,3.9,mwr,93,1.397,1.21,"31km N de Guiria, Venezuela",Sismo,6.5,8.1,,
+2016-02-15T13:14:25.150Z,9.36,-70.3686,5,4.5,mb,38,0.54,0.88,"7km E de Trujillo, Venezuela",Sismo,5.2,1.9,0.135,16
+2016-03-03T22:14:57.380Z,10.8872,-62.3014,98.24,4.1,mb,91,1.39,1.16,"34km N de Guiria, Venezuela",Sismo,4,9.9,0.371,2
+2016-04-07T12:22:21.990Z,10.5418,-62.5876,86.21,5.2,mb,40,1.826,0.96,"3km SSW de Irapa, Venezuela",Sismo,7,5,0.027,448
+2016-04-07T23:55:03.690Z,8.6915,-71.3127,12.1,4.3,mb,45,0.697,0.74,"14km E de La Azulita, Venezuela",Sismo,3,5.2,0.147,13
+2016-04-25T03:07:46.650Z,10.5125,-62.5345,22.52,3.5,mwr,98,1.826,1.11,"8km SE de Irapa, Venezuela",Sismo,6.9,8.5,,
+2016-04-26T02:23:28.520Z,8.5588,-71.3297,8.95,4.4,mb,36,0.759,0.77,"8km NE de Lagunillas, Venezuela",Sismo,4.6,1.9,0.083,42
+2016-06-06T18:06:54.130Z,8.719,-70.7774,10,4.4,mwr,35,0.216,0.94,"15km ESE de Mucuchies, Venezuela",Sismo,5.1,1.8,,
+2016-07-09T10:13:56.360Z,10.9267,-62.3906,110.75,4.2,mb,63,1.399,1.09,"39km NNW de Guiria, Venezuela",Sismo,6.6,10.2,0.112,22
+2016-07-15T06:42:05.180Z,9.3478,-70.6741,10,4.1,mwr,48,0.462,0.87,"7km ESE de Betijoque, Venezuela",Sismo,6.8,1.9,,
+2016-08-02T13:13:31.150Z,10.8082,-62.233,93.28,4.2,mb,95,1.433,1.16,"26km NNE de Guiria, Venezuela",Sismo,8.9,10.3,0.199,7
+2016-08-17T22:37:07.590Z,8.6209,-70.6308,10,4.2,mwr,49,0.261,0.74,"20km NNW de Curbati, Venezuela",Sismo,5.6,1.8,,
+2016-10-03T02:23:00.700Z,7.83,-72.14,5,3.5,mwr,,,0.79,"5km ESE de Cordero, Venezuela",Sismo,5.5,6.9,,
+2016-10-16T17:45:58.740Z,10.7735,-71.7514,35,4.3,mwr,95,2.176,1.15,"3km SSE de Concepcion, Venezuela",Sismo,3.6,2,,
+2016-10-26T23:31:04.270Z,9.2476,-69.9011,10,4.2,mwr,30,0.809,0.72,"15km SE de Biscucuy, Venezuela",Sismo,4.6,1.9,,
+2016-11-12T20:57:01.390Z,10.5648,-62.7463,8.35,3.7,mwr,47,1.89,0.97,"8km E de Yaguaraparo, Venezuela",Sismo,5.4,7.2,,
+2016-11-21T01:36:28.020Z,10.2621,-62.1677,28.21,4.6,mwr,61,1.906,0.78,"33km NNE de Pedernales, Venezuela",Sismo,7,6,0.098,10
+2017-01-14T03:34:32.750Z,10.6954,-62.3247,91.12,4.4,mb,97,1.572,0.53,"13km NNW de Guiria, Venezuela",Sismo,5.3,9.5,0.144,14
+2017-02-23T13:25:21.910Z,10.1966,-62.9825,27.29,4.3,mb,47,2.323,1.18,"15km NE de Caripito, Venezuela",Sismo,6.2,6.4,0.169,10
+2017-03-07T17:11:13.900Z,7.2863,-71.9714,39.39,4.4,mb,38,1.77,1.07,"26km S de San Rafael del Pinal, Venezuela",Sismo,6,10.6,0.1,29
+2017-03-10T13:46:40.400Z,11.9771,-69.5658,15,5.2,mww,24,0.628,1.08,"56km N de La Vela de Coro, Venezuela",Sismo,5.5,1.7,0.08,15
+2017-03-17T18:35:11.460Z,10.8832,-68.9237,26,4.8,mb,36,1.289,0.92,"22km SSW de Jacura, Venezuela",Sismo,2.8,5.9,0.038,219
+2017-04-04T15:09:05.280Z,10.3052,-72.6116,10,4.1,mb,132,1.514,1.01,"27km NNW de Machiques, Venezuela",Sismo,8.5,2,0.303,3
+2017-04-04T21:50:14.110Z,10.3156,-62.1535,10,4.4,mwr,33,1.866,0.77,"32km SSE de Guiria, Venezuela",Sismo,1.6,1.8,,
+2017-04-16T13:24:15.900Z,11.6535,-66.8191,13.09,4.5,mb,32,2.157,0.77,"Mar Caribe, Venezuela",Sismo,6.2,4.5,0.069,62
+2017-04-23T01:52:20.040Z,10.8774,-62.3823,86.66,4.6,mb,55,1.437,0.84,"34km NNW de Guiria, Venezuela",Sismo,8,7.2,0.053,107
+2017-05-17T10:04:23.560Z,10.9078,-62.1643,86.78,4.7,mb,120,1.315,0.66,"39km NNE de Guiria, Venezuela",Sismo,4.7,9.9,0.1,30
+2017-08-06T15:43:48.200Z,8.8395,-71.1073,32.25,4.5,mwr,38,0.469,0.98,"23km SSW de Torondoy, Venezuela",Sismo,4.8,5.1,,
+2017-08-13T15:21:55.970Z,7.4513,-71.9832,47.72,4.5,mb,61,1.951,0.61,"9km SSW de San Rafael del Pinal, Venezuela",Sismo,6.1,7.6,0.048,129
+2017-08-30T14:01:13.000Z,10.683,-66.4482,11.03,4.5,mwr,38,2.335,0.81,"25km NNE de Guatire, Venezuela",Sismo,6.7,4.9,,
+2017-08-31T15:47:33.690Z,10.8822,-62.8391,90.06,4.8,mww,39,1.7,0.82,"34km N de Yaguaraparo, Venezuela",Sismo,6.1,3.7,0.08,15
+2017-10-14T08:35:43.800Z,7.2692,-71.9426,33.43,5.1,mwr,53,2.062,0.77,"27km SSW de Puerto Vivas, Venezuela",Sismo,7.2,5.6,,
+2017-11-12T23:34:28.600Z,9.4464,-63.4337,42.65,4.4,mb,66,3.19,0.95,"26km SE de Santa Barbara, Venezuela",Sismo,7.1,11.7,0.117,21
+2017-11-18T05:54:58.270Z,8.376,-71.8069,31.65,4.9,mww,52,1.264,0.89,"2km W de Zea, Venezuela",Sismo,6.8,5.1,0.066,22
+2017-11-22T20:42:08.070Z,11.1171,-62.1682,112.62,4.2,mwr,70,1.127,0.68,"61km NNE de Guiria, Venezuela",Sismo,9.4,7.1,,
+2017-12-28T06:58:32.150Z,10.72,-62.4364,76.47,4.2,mb,138,1.599,0.55,"21km NW de Guiria, Venezuela",Sismo,9.8,14.9,0.147,13
+2018-01-17T01:49:23.730Z,10.9788,-62.3613,88.39,4.6,mb,87,1.339,1.15,"44km N de Guiria, Venezuela",Sismo,8,7.8,0.043,162
+2018-01-24T13:53:48.050Z,9.4972,-69.8331,10,4.6,mwr,84,0.998,1.42,"14km ENE de Paraiso de Chabasquen, Venezuela",Sismo,2.7,1.9,,
+2018-01-26T14:40:21.960Z,10.2673,-62.2267,10,4.6,mb,141,1.936,1.32,"32km N de Pedernales, Venezuela",Sismo,8,1.9,0.117,22
+2018-01-26T14:47:25.310Z,10.0631,-62.0735,27.85,4.9,mb,102,2.097,0.97,"21km ENE de Pedernales, Venezuela",Sismo,5.5,8.1,0.169,11
+2018-01-26T20:30:32.630Z,10.2442,-62.2616,41.63,4.8,mb,34,1.968,0.75,"30km N de Pedernales, Venezuela",Sismo,6.3,4,0.042,172
+2018-01-26T22:05:22.130Z,10.1928,-62.1532,10,4.6,mb,77,1.988,1.1,"26km NNE de Pedernales, Venezuela",Sismo,2.9,1.9,0.103,28
+2018-01-26T23:57:18.300Z,10.2863,-62.2747,10,4.3,mwr,164,1.933,0.48,"31km S de Guiria, Venezuela",Sismo,10.2,2,,
+2018-01-28T07:30:06.810Z,10.6123,-62.472,68.76,4.1,mwr,118,1.71,0.47,"12km ENE de Irapa, Venezuela",Sismo,5.6,25.3,,
+2018-02-11T23:35:35.800Z,10.3347,-62.2811,21.63,4.3,mb,148,1.889,0.85,"26km S de Guiria, Venezuela",Sismo,8.9,7.1,0.189,8
+2018-03-16T02:49:51.230Z,10.8799,-62.1443,69.04,4.6,mwr,45,1.334,0.78,"37km NNE de Guiria, Venezuela",Sismo,6.8,8,,
+2018-03-16T18:01:55.940Z,10.653,-62.0936,78.98,4.2,mb,75,1.532,1.41,"23km ENE de Guiria, Venezuela",Sismo,5.6,10.4,0.236,7
+2018-04-03T09:41:27.350Z,8.3459,-71.7188,10,4.9,mb,19,1.198,0.71,"3km ENE de Tovar, Venezuela",Sismo,6.6,1.8,0.024,525
+2018-04-27T08:44:49.740Z,10.2896,-67.9854,10,4.7,mwr,56,2.107,0.84,"4km NE de Naguanagua, Venezuela",Sismo,6.7,1.9,,
+2018-05-04T23:20:43.810Z,10.2861,-62.6807,10,4.1,mwr,88,2.093,0.94,"33km SSW de Irapa, Venezuela",Sismo,5.4,1.9,,
+2018-05-20T21:50:18.290Z,11.1108,-62.1993,114.5,4.5,mb,88,1.147,0.72,"59km N de Guiria, Venezuela",Sismo,8.1,7.4,0.105,27
+2018-05-23T11:23:07.110Z,10.3278,-67.9604,10,4.2,mwr,46,1.378,0.73,"7km N de San Diego, Venezuela",Sismo,6.1,1.9,,
+2018-05-24T18:53:18.490Z,10.8789,-62.1195,106.06,4.2,mb,73,1.326,0.62,"38km NNE de Guiria, Venezuela",Sismo,7.6,12.9,0.305,3
+2018-05-27T18:02:10.300Z,10.2375,-62.0663,47.5,4.7,mb,102,1.926,0.82,"35km NE de Pedernales, Venezuela",Sismo,8.2,10,0.063,76
+2018-06-03T16:22:23.920Z,11.4804,-69.3907,16.83,4.4,mb,139,0.814,0.93,"4km W de Puerto Cumarebo, Venezuela",Sismo,6.8,5.8,0.149,13
+2018-06-23T01:54:40.710Z,10.7414,-62.6732,90.62,5.2,mww,32,1.705,0.96,"21km NNW de Irapa, Venezuela",Sismo,6.8,4.3,0.048,41
+2018-07-08T17:44:01.710Z,10.6522,-62.5624,100.64,4.5,mb,87,1.719,0.67,"9km NNE de Irapa, Venezuela",Sismo,8,12.8,0.156,12
+2018-08-21T21:31:40.270Z,10.6575,-62.8522,108.91,5.3,mb,35,1.878,1.18,"10km NNW de Yaguaraparo, Venezuela",Sismo,7.8,7.4,0.111,27
+2018-08-21T21:31:47.600Z,10.7731,-62.9019,146.82,7.3,mww,15,1.822,1.1,"24km ENE de Rio Caribe, Venezuela",Sismo,7.5,3.4,0.033,88
+2018-08-22T13:27:48.490Z,10.6593,-62.9288,108,5.8,mww,32,1.925,0.9,"14km NW de Yaguaraparo, Venezuela",Sismo,7.1,1.9,0.044,50
+2018-09-01T08:30:16.640Z,10.6588,-62.9105,98.69,4.2,mb,65,4.105,0.86,"13km NW de Yaguaraparo, Venezuela",Sismo,9.5,12.8,0.167,10
+2018-09-02T02:20:36.440Z,10.6658,-62.8875,107.02,4.4,mb,82,1.894,0.81,"12km NNW de Yaguaraparo, Venezuela",Sismo,7.7,7.3,0.061,77
+2018-09-06T05:08:04.560Z,10.6568,-62.882,113.23,4.2,mb,82,4.084,0.69,"11km NNW de Yaguaraparo, Venezuela",Sismo,7.3,10.8,0.167,10
+2018-10-23T03:32:58.600Z,10.2624,-62.4297,23.89,4.9,mb,49,2.008,0.79,"37km SSW de Guiria, Venezuela",Sismo,5.9,4.1,0.027,441
+2018-10-23T03:37:11.590Z,10.1339,-62.4101,24.3,4.6,mb,74,2.12,0.85,"24km NW de Pedernales, Venezuela",Sismo,8.6,8.1,0.088,38
+2018-10-25T15:56:59.550Z,10.2813,-62.3909,10,4.9,mww,47,1.976,0.93,"33km SSW de Guiria, Venezuela",Sismo,7.4,1.9,0.093,11
+2018-10-28T15:36:11.340Z,10.8595,-62.3144,85.26,4.6,mb,118,1.421,0.64,"31km N de Guiria, Venezuela",Sismo,8.6,8.1,0.119,21
+2018-10-28T22:58:08.090Z,10.2472,-69.0842,20.33,4.4,mb,75,1.654,0.85,"9km ESE de Duaca, Venezuela",Sismo,3.3,9.4,0.378,2
+2018-10-30T23:32:38.700Z,10.2026,-62.3772,42.95,4.4,mb,146,2.044,0.86,"29km NNW de Pedernales, Venezuela",Sismo,8.9,11.3,0.079,46
+2018-11-03T01:13:37.980Z,10.327,-62.1736,23.62,4.5,mb,50,1.865,1.05,"30km SSE de Guiria, Venezuela",Sismo,7.3,6.7,0.131,17
+2018-11-17T20:13:45.800Z,8.5209,-71.9439,10,4.1,mb,91,1.344,0.98,"12km W de La Tendida, Venezuela",Sismo,7.1,1.9,0.185,8
+2018-11-20T12:37:45.640Z,11.2634,-70.593,10,4.4,mb,70,1.359,0.67,"10km NNE de Capatarida, Venezuela",Sismo,3.9,1.9,0.084,41
+2018-11-22T15:11:28.230Z,10.3417,-62.182,24.57,4.7,mb,85,1.853,0.71,"28km SSE de Guiria, Venezuela",Sismo,7.7,6.5,0.082,46
+2018-11-24T20:41:13.360Z,9.3095,-70.6681,18.92,5.2,mww,22,0.424,0.78,"7km W de Valera, Venezuela",Sismo,5.5,3.2,0.046,45
+2018-11-28T15:00:06.820Z,9.3617,-70.6608,7.46,4.6,mb,46,0.475,0.98,"7km NW de Valera, Venezuela",Sismo,5.2,3.2,0.069,62
+2018-12-05T09:33:01.410Z,10.5035,-68.6432,10,4.7,mb,40,1.659,0.79,"9km WNW de Farriar, Venezuela",Sismo,5.3,1.8,0.063,76
+2018-12-14T12:41:21.340Z,10.6072,-69.4305,10,4.6,mb,70,1.63,0.61,"25km SSE de Churuguara, Venezuela",Sismo,6.4,1.9,0.151,13
+2018-12-24T19:08:21.200Z,10.3076,-62.6054,10,4.5,mb,71,2.039,0.46,"29km S de Irapa, Venezuela",Sismo,7.6,1.9,0.077,49
+2018-12-27T08:59:11.240Z,10.2636,-67.9035,8,5.4,mww,58,1.318,0.65,"5km NW de Guacara, Venezuela",Sismo,5.7,1.8,0.045,47
+2018-12-27T09:13:00.040Z,10.3201,-67.8486,10,4.2,mb,94,1.381,0.29,"9km NW de San Joaquin, Venezuela",Sismo,4.9,2,0.237,5
+2018-12-27T09:24:20.600Z,10.2521,-67.9488,10,4.9,mb,35,1.303,0.7,"0km SSE de San Diego, Venezuela",Sismo,7.2,1.9,0.039,212
+2019-01-07T05:08:04.910Z,10.4888,-63.164,20.48,4.6,mb,64,2.204,1.06,"5km SSW de El Pilar, Venezuela",Sismo,5.9,5.2,0.056,96
+2019-01-07T10:21:14.580Z,10.5128,-63.2327,10,4.4,mb,118,2.233,1.22,"9km WSW de El Pilar, Venezuela",Sismo,3.7,2,0.112,23
+2019-01-07T17:39:51.220Z,10.4078,-63.1155,10,4.3,mb,76,2.234,0.64,"14km SSE de El Pilar, Venezuela",Sismo,5.7,1.9,0.267,4
+2019-01-07T17:41:46.230Z,10.4629,-63.0537,10,4.8,mb,71,2.153,0.56,"13km SE de El Pilar, Venezuela",Sismo,5.3,1.9,0.068,66
+2019-01-15T04:59:24.250Z,10.4753,-63.0995,10,4.9,mb,64,2.173,0.5,"8km SE de El Pilar, Venezuela",Sismo,7.9,1.9,0.04,194
+2019-01-15T06:25:53.000Z,10.4999,-63.1354,10,4.5,mb,64,2.177,0.62,"4km SSE de El Pilar, Venezuela",Sismo,6.4,1.9,0.059,84
+2019-01-23T10:44:48.800Z,10.6804,-62.9008,107.78,4.5,mb,92,1.891,0.76,"14km NNW de Yaguaraparo, Venezuela",Sismo,8.3,7.6,0.135,16
+2019-01-29T07:33:23.340Z,10.2713,-67.9453,18.55,4.1,mb,81,1.323,0.56,"1km NE de San Diego, Venezuela",Sismo,6.1,5.4,0.368,2
+2019-02-10T22:52:53.750Z,10.24,-62.3438,10,4.6,mb,103,1.998,0.89,"31km NNW de Pedernales, Venezuela",Sismo,6.6,1.9,0.069,63
+2019-03-17T07:49:11.557Z,10.0494,-72.5531,153.18,4.3,mb,63,1.981,1,"1km SSW de Machiques, Venezuela",Sismo,7.5,8.5,0.044,143
+2019-04-16T08:40:48.043Z,10.246,-67.9409,10,3.5,mb_lg,78,1.298,0.7,"2km SE de San Diego, Venezuela",Sismo,4.6,2,0.255,4
+2019-04-28T17:48:22.052Z,9.305,-63.0678,23.34,4.9,mww,80,3.134,1.2,"50km SSE de Maturin, Venezuela",Sismo,3.5,4.3,0.089,12
+2019-05-31T19:29:07.979Z,10.6905,-62.5334,67.6,4.6,mb,132,1.672,0.65,"14km NNE de Irapa, Venezuela",Sismo,9.4,7.8,0.194,8
+2019-06-18T11:28:23.210Z,10.8382,-62.4158,77.61,4.4,mb,117,1.487,0.96,"31km NNW de Guiria, Venezuela",Sismo,7.6,6,0.084,41
+2019-07-22T10:00:33.012Z,8.7571,-71.3161,33.29,4.4,mb,62,0.685,1.36,"14km ENE de La Azulita, Venezuela",Sismo,3.3,6,0.078,47
+2019-08-17T11:02:26.066Z,8.6771,-61.132,10,4.3,mb,93,3.471,0.96,"18km NW de Curiapo, Venezuela",Sismo,8.1,1.9,0.129,17
+2019-08-19T10:45:31.651Z,10.4978,-62.6845,10,4.6,mb,86,1.913,0.91,"13km SW de Irapa, Venezuela",Sismo,7.8,1.9,0.091,36
+2019-08-24T15:49:23.704Z,10.3733,-69.2849,10,4.1,mb,57,1.876,1.34,"16km NW de Duaca, Venezuela",Sismo,3.9,2,0.213,6
+2019-08-28T01:35:41.595Z,10.2358,-67.8911,17.75,4.4,mb,50,1.292,1.05,"1km NW de Guacara, Venezuela",Sismo,6.2,5.3,0.149,13
+2019-09-09T18:05:17.123Z,10.5125,-64.4206,10,5.4,mww,29,3.154,0.71,"19km WSW de Araya, Venezuela",Sismo,6.9,1.8,0.047,44
+2019-10-14T19:28:19.427Z,10.5098,-62.4466,92.9,4.9,mb,137,1.79,0.76,"16km ESE de Irapa, Venezuela",Sismo,8.5,7.9,0.103,30
+2019-11-08T08:11:17.773Z,10.6489,-62.0307,51.04,4.6,mb,81,1.519,1,"30km ENE de Guiria, Venezuela",Sismo,7.3,8.4,0.111,24
+2019-11-13T16:07:36.636Z,10.963,-61.9952,81.01,4.2,mb,92,1.209,0.97,"53km NE de Guiria, Venezuela",Sismo,10,9.2,0.372,2
+2019-11-22T15:05:09.491Z,10.8756,-71.3001,10,3.6,ml,166,2.085,0.61,"35km NW de Mene de Mauroa, Venezuela",Sismo,7.7,2,0.181,4
+2019-11-28T00:54:24.273Z,10.6519,-62.5714,108.93,4.4,mb,86,1.724,0.85,"9km N de Irapa, Venezuela",Sismo,9.5,8.4,0.148,13
+2020-01-26T11:05:54.626Z,10.671,-65.4201,10,4,mb,52,3.968,0.87,"59km N de Boca de Uchire, Venezuela",Sismo,8,2,0.298,3
+2020-01-28T04:24:08.365Z,10.2821,-62.2086,39.99,4.8,mb,62,1.917,0.65,"33km SSE de Guiria, Venezuela",Sismo,7.2,5.5,0.033,277
+2020-02-29T02:25:21.428Z,10.5945,-62.4825,94.11,4.6,mb,66,1.73,1.04,"11km ENE de Irapa, Venezuela",Sismo,6.8,6.9,0.062,77
+2020-03-06T02:44:51.074Z,10.9573,-62.3295,98.66,4.7,mww,31,1.342,1.08,"42km N de Guiria, Venezuela",Sismo,7.3,5.2,0.098,10
+2020-03-16T00:09:13.571Z,10.3725,-62.608,27.54,4.9,mb,31,1.983,0.99,"22km S de Irapa, Venezuela",Sismo,6.8,4.1,0.025,516
+2020-04-12T13:02:43.272Z,8.8577,-72.4176,124.49,4.4,mb,100,4.411,0.56,"16km NE de Casigua El Cubo, Venezuela",Sismo,7.6,7.7,0.138,15
+2020-05-09T13:30:07.012Z,10.5671,-62.5639,82.8,4.5,mb,110,1.793,1.1,"1km E de Irapa, Venezuela",Sismo,6.2,7.5,0.128,18
+2020-06-11T09:39:41.952Z,10.7896,-65.559,10,4.4,mb,33,4.053,1.26,"113 km ENE de Guatire, Venezuela",Sismo,4.6,1.7,0.111,23
+2020-06-26T10:33:48.463Z,11.3594,-70.7761,126.16,4.5,mb,96,2.463,0.83,"26km NW de Capatarida, Venezuela",Sismo,10.7,5.5,0.046,139
+2020-07-12T15:08:49.347Z,9.4259,-69.8418,10,5.1,mww,43,0.949,0.66,"40 km S de El Tocuyo, Venezuela",Sismo,6.5,1.9,0.083,14
+2020-07-13T08:42:09.651Z,9.4486,-69.82,10,4.6,mb,112,0.98,0.59,"37 km S de El Tocuyo, Venezuela",Sismo,7.7,1.9,0.045,148
+2020-07-28T15:46:47.870Z,10.5168,-62.6962,10,4.6,mb,107,1.903,0.85,"44 km W de Guiria, Venezuela",Sismo,6.2,1.9,0.072,57
+2020-08-02T00:03:46.440Z,10.7665,-62.5503,91.73,5,mww,28,1.617,0.85,"34 km NW de Guiria, Venezuela",,8.1,6.1,0.078,16
